@@ -1,0 +1,704 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/FrameLayout_employee_update"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaper_galaxy"
+    tools:context="com.kutsubogeras.shifts.InsertionOfEmployee$PlaceholderFragment" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="60dp" >
+
+        <LinearLayout
+            android:id="@+id/LinearLayout_EmploInsert_Lines"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingLeft="15dp" >
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_EmploInsert_Line1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp" >
+
+                <TextView
+                    android:id="@+id/textView_ExtraRepo_SumRepo"
+                    style="@style/LabelRoundedCornerStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="left|center_vertical"
+                    android:maxWidth="110dp"
+                    android:minWidth="115dp"
+                    android:paddingLeft="5dp"
+                    android:text="@string/label_emplo_code"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    tools:ignore="HardcodedText" />
+
+                <EditText
+                    android:id="@+id/editTextCode"
+                    style="@style/MyRoundedTextField"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:gravity="center_horizontal|center"
+                    android:inputType="number"
+                    android:maxWidth="160dp"
+                    android:minWidth="160dp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="18sp"
+                    android:textStyle="bold">  
+                    <requestFocus />
+                    <!-- Ορίζουμε να έχει την εστίαση το 1ο editText -->
+                </EditText>
+                
+                <TextView
+                    android:id="@+id/TextView10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:minHeight="30dp"
+                    android:minWidth="30dp"
+                    android:text="*"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/Color_Red"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_EmploInsert_Line2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <TextView
+                    android:id="@+id/ΤextView1_ListDate"
+                    style="@style/LabelRoundedCornerStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="left|center_vertical"
+                    android:maxWidth="115dp"
+                    android:minWidth="115dp"
+                    android:paddingLeft="5dp"
+                    android:text="@string/label_emplo_name"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    tools:ignore="HardcodedText" />
+
+                <EditText
+                    android:id="@+id/editTextName"
+                    style="@style/MyRoundedTextField"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:capitalize="characters"
+                    android:gravity="center_horizontal|center"
+                    android:inputType="textCapCharacters"
+                    android:maxWidth="160dp"
+                    android:minWidth="160dp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    tools:ignore="Deprecated" />
+
+                <TextView
+                    android:id="@+id/TextView09"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:minHeight="30dp"
+                    android:minWidth="30dp"
+                    android:text="*"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/Color_Red"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_EmploInsert_Line3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <TextView
+                    android:id="@+id/ΤextView2_ListWeekday"
+                    style="@style/LabelRoundedCornerStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="left|center_vertical"
+                    android:maxWidth="115dp"
+                    android:minWidth="115dp"
+                    android:paddingLeft="5dp"
+                    android:text="@string/label_emplo_lastname"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    tools:ignore="HardcodedText" />
+
+                <EditText
+                    android:id="@+id/editTextLastName"
+                    style="@style/MyRoundedTextField"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:capitalize="characters"
+                    android:gravity="center_horizontal|center"
+                    android:inputType="textCapCharacters"
+                    android:maxWidth="160dp"
+                    android:minHeight="30dp"
+                    android:minWidth="160dp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    tools:ignore="Deprecated" />
+
+                <TextView
+                    android:id="@+id/TextView08"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:minHeight="30dp"
+                    android:minWidth="30dp"
+                    android:text="*"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/Color_Red"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_EmploInsert_Line4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <TextView
+                    android:id="@+id/ΤextView3_ListShiftValue"
+                    style="@style/LabelRoundedCornerStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="left|center_vertical"
+                    android:maxWidth="115dp"
+                    android:minWidth="115dp"
+                    android:paddingLeft="5dp"
+                    android:text="@string/label_emplo_address"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    tools:ignore="HardcodedText" />
+
+                <EditText
+                    android:id="@+id/editTextAdrress"
+                    style="@style/MyRoundedTextField"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:capitalize="characters"
+                    android:gravity="center_horizontal|center"
+                    android:inputType="textCapCharacters"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:maxWidth="160dp"
+                    android:minHeight="30dp"
+                    android:minWidth="160dp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    tools:ignore="Deprecated" />
+
+                <TextView
+                    android:id="@+id/TextView07"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:minHeight="30dp"
+                    android:minWidth="30dp"
+                    android:text="*"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/Color_Red"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_EmploInsert_Line5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <TextView
+                    android:id="@+id/textView_OfWork_DaysHaveTake"
+                    style="@style/LabelRoundedCornerStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="left|center_vertical"
+                    android:maxWidth="115dp"
+                    android:minWidth="115dp"
+                    android:paddingLeft="5dp"
+                    android:text="@string/label_emplo_phone"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    tools:ignore="HardcodedText" />
+
+                <EditText
+                    android:id="@+id/editTextPhone"
+                    style="@style/MyRoundedTextField"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:gravity="center_horizontal|center"
+                    android:inputType="phone"
+                    android:maxWidth="160dp"
+                    android:minHeight="30dp"
+                    android:minWidth="160dp"
+                    android:text="210"
+                    android:textAlignment="center"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/TextView06"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:minHeight="30dp"
+                    android:minWidth="30dp"
+                    android:text="*"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/Color_Red"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_EmploInsert_Line6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <TextView
+                    android:id="@+id/textView_ofWork_duration"
+                    style="@style/LabelRoundedCornerStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="left|center_vertical"
+                    android:maxWidth="115dp"
+                    android:minWidth="115dp"
+                    android:paddingLeft="5dp"
+                    android:text="@string/label_emplo_mobile"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    tools:ignore="HardcodedText" />
+
+                <EditText
+                    android:id="@+id/editTextMobile"
+                    style="@style/MyRoundedTextField"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:gravity="center_horizontal|center"
+                    android:inputType="phone"
+                    android:maxWidth="160dp"
+                    android:minHeight="30dp"
+                    android:minWidth="160dp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/TextView05"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:minHeight="30dp"
+                    android:minWidth="30dp"
+                    android:text="*"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/Color_Red"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_EmploInsert_Line7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <TextView
+                    android:id="@+id/textView_OfWork_Restdays"
+                    style="@style/LabelRoundedCornerStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="left|center_vertical"
+                    android:maxWidth="115dp"
+                    android:minWidth="115dp"
+                    android:paddingLeft="5dp"
+                    android:text="@string/label_emplo_job"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    tools:ignore="HardcodedText" />
+
+                <EditText
+                    android:id="@+id/editTextJob"
+                    style="@style/MyRoundedTextField"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:capitalize="characters"
+                    android:gravity="center_horizontal|center"
+                    android:inputType="textCapCharacters"
+                    android:maxWidth="160dp"
+                    android:minHeight="30dp"
+                    android:minWidth="160dp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    tools:ignore="Deprecated" />
+
+                <TextView
+                    android:id="@+id/TextView04"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:minHeight="30dp"
+                    android:minWidth="30dp"
+                    android:text="*"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/Color_Red" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_EmploInsert_Line8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <TextView
+                    android:id="@+id/textView_Query_Results"
+                    style="@style/LabelRoundedCornerStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="left|center_vertical"
+                    android:maxWidth="115dp"
+                    android:minWidth="115dp"
+                    android:paddingLeft="5dp"
+                    android:text="@string/label_emplo_company"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    tools:ignore="HardcodedText" />
+
+                <EditText
+                    android:id="@+id/editTextCompany"
+                    style="@style/MyRoundedTextField"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:capitalize="characters"
+                    android:gravity="center_horizontal|center"
+                    android:inputType="textCapCharacters"
+                    android:maxWidth="160dp"
+                    android:minHeight="30dp"
+                    android:minWidth="160dp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    tools:ignore="Deprecated" />
+
+                <TextView
+                    android:id="@+id/TextView03"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:minHeight="30dp"
+                    android:minWidth="30dp"
+                    android:text="*"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/Color_Red"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_EmploInsert_Line9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <TextView
+                    android:id="@+id/textView_ofWork_Year"
+                    style="@style/LabelRoundedCornerStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="left|center_vertical"
+                    android:maxWidth="115dp"
+                    android:minWidth="115dp"
+                    android:paddingLeft="5dp"
+                    android:text="@string/label_emplo_departement"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    tools:ignore="HardcodedText" />
+
+                <EditText
+                    android:id="@+id/editTextDepartment"
+                    style="@style/MyRoundedTextField"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:gravity="center_horizontal|center"
+                    android:inputType="textCapCharacters"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:maxWidth="160dp"
+                    android:minHeight="30dp"
+                    android:minWidth="160dp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="18sp"
+                    android:textStyle="normal" />                  
+
+                <TextView
+                    android:id="@+id/TextView2_Day"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:minHeight="30dp"
+                    android:minWidth="30dp"
+                    android:text="*"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/Color_Red"
+                    tools:ignore="HardcodedText" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_EmploInsert_Line10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <TextView
+                    android:id="@+id/textView_ExtraRepo_ExtraRest"
+                    style="@style/LabelRoundedCornerStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="left|center_vertical"
+                    android:maxWidth="115dp"
+                    android:minWidth="115dp"
+                    android:paddingLeft="5dp"
+                    android:text="@string/label_emplo_grade"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    tools:ignore="HardcodedText" />
+
+                <EditText
+                    android:id="@+id/editTextGrade"
+                    style="@style/MyRoundedTextField"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:capitalize="characters"
+                    android:gravity="center_horizontal|center"
+                    android:inputType="textCapCharacters"
+                    android:maxWidth="160dp"
+                    android:minHeight="30dp"
+                    android:minWidth="160dp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    tools:ignore="Deprecated" />
+
+                <TextView
+                    android:id="@+id/TextView4_Sunday"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:minHeight="30dp"
+                    android:minWidth="30dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/Color_Red" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_EmploInsert_Line11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <TextView
+                    android:id="@+id/textView_OfWorkInsert_SumDays"
+                    style="@style/LabelRoundedCornerStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="left|center_vertical"
+                    android:maxWidth="115dp"
+                    android:minWidth="115dp"
+                    android:paddingLeft="5dp"
+                    android:text="@string/label_emplo_photo"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/textView_Photo"
+                    style="@style/TextFieldStyleForPhotoSearch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_horizontal|center"
+                    android:inputType="text"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:maxHeight="35dp"
+                    android:maxWidth="160dp"
+                    android:minHeight="35dp"
+                    android:minWidth="160dp"
+                    android:text="Αναζήτηση"
+                    android:textColor="@color/Color_dark_cyan"
+                    android:textSize="18sp"
+                    android:textStyle="normal" />
+
+                <TextView
+                    android:id="@+id/TextView01"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:minHeight="30dp"
+                    android:minWidth="30dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/Color_Red" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:minHeight="70dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/LinearLayout_EmploInsert_Buttons"
+            style="@style/BackgroundButtonsStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_marginTop="20dp"
+            android:gravity="bottom|center|end"
+            android:minHeight="55dp"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/Button_Worked_Back"
+                style="@style/MyShiftAddDatesButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|center_vertical"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/shift_add_dates_button_background"
+                android:maxWidth="95dp"
+                android:minHeight="48dp"
+                android:minWidth="95dp"
+                android:text="@string/Button_Back"
+                android:textColor="@color/Color_Black"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/Button_Worked_OK"
+                style="@style/MyShiftOKButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center"
+                android:background="@drawable/shift_ok_button_background"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxWidth="90dp"
+                android:minHeight="48dp"
+                android:minWidth="90dp"
+                android:text="@string/Button_OK"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/Button_Worked_Reset"
+                style="@style/MyShiftResetButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/shift_reset_button_background"
+                android:maxWidth="95dp"
+                android:minHeight="48dp"
+                android:minWidth="95dp"
+                android:text="@string/Button_Delete"
+                android:textColor="@color/Color_Black"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

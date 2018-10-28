@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.kutsubogeras.shifts"
+          android:versionCode="15"
+          android:versionName="2.5">
+    <!--
+         when upload a new version to playStore must change the:
+         vesionCode and versionName
+    <uses-sdk android:targetSdkVersion="28"/>
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false"/>
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/shift"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".insert.EmployeeInsertion"
+            android:label="@string/title_activity_insertion_of_employee"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible|adjustPan">
+
+            <!--
+                 windowSoftInputMode : Για να μην σπρώχνει προς τα επάνω 
+                 την scroll view όταν ανοίγει το εικον. πληκτολόγιο
+            -->
+        </activity>
+        <activity
+            android:name=".insert.OneShiftInsertion"
+            android:label="@string/title_activity_one_shift_insertion"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".insert.WeekShiftInsertion"
+            android:label="@string/title_activity_two_weeks_insertion"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".insert.TwoWeekShiftInsertion"
+            android:label="@string/title_activity_two_weeks_insertion">
+        </activity>
+        <activity
+            android:name=".ofwork.OffWorkManager"
+            android:label="@string/title_activity_paid_leave_manager"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".insert.OfWorkInsertion"
+            android:label="@string/title_activity_of_work_insertion"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".help.DiaryView"
+            android:label="@string/title_activity_diary_view"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".queries.QueryDatesManager"
+            android:label="@string/title_activity_query_dates_manager"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".queries.DisplayShift"
+            android:label="@string/title_activity_display_shift"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".help.ShowAppInfo"
+            android:label="@string/title_activity_show_app_info"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".queries.DisplayExtraRepo"
+            android:label="@string/title_activity_display_extra_repo"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".queries.ShowWorkedHolidays"
+            android:label="@string/title_activity_show_worked_holidays"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".queries.ShowSumResults"
+            android:label="@string/title_activity_show_sum_results"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".queries.ShowMultiDaysRepo"
+            android:label="@string/title_activity_show_report_of_repo"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".help.DeveloperInfo"
+            android:label="@string/title_activity_developer_info"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".help.DisplayWebInfo"
+            android:label="@string/title_activity_display_web_info"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".queries.DisplayOfWorkYear"
+            android:label="@string/title_activity_display_of_work_year"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".update.UpdateEmployee"
+            android:label="@string/title_activity_update_employee"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible|adjustPan">
+
+            <!--
+                 windowSoftInputMode : Για να μην σπρώχνει προς τα επάνω 
+                 την scroll view όταν ανοίγει το εικον. πληκτολόγιο
+            -->
+        </activity>
+        <activity
+            android:name=".update.UpdateShift"
+            android:label="@string/title_activity_update_shift"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".update.UpdateOfWork"
+            android:label="@string/title_activity_update_of_work"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".queries.DisplayIntervalOfShifts"
+            android:label="@string/title_activity_display_interval_of_shifts"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".settings.SettingsShifts"
+            android:label="@string/title_activity_settings_shifts">
+        </activity>
+        <activity
+            android:name=".queries.YearOfWorks"
+            android:label="@string/title_activity_year_of_works">
+        </activity>
+        <activity
+            android:name=".ShiftSettings"
+            android:label="@string/title_activity_shift_settings"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.kutsubogeras.shifts.MainActivity"/>
+        </activity>
+    </application>
+
+</manifest>

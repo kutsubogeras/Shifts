@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- STRINGS -->
+    <string name="app_name">Shifts</string>
+    <string name="title_section1">Shifts</string>
+    <string name="title_section2">Employee</string>
+    <string name="title_section3">Recent Shifts</string>    
+    <string name="title_section4">Annual Leave</string>
+    <string name="title_section5">Questions</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_insertion_of_employee">Add Employee</string>
+    <string name="title_activity_shift_manager">ShiftManager</string>
+    <string name="title_activity_paid_leave_manager">PaidLeaveManager</string>
+    <string name="title_activity_of_work_insertion">Add Leave</string>
+    <string name="title_activity_diary_view">DIARY</string>
+    <string name="title_activity_one_shift_insertion">Add Shift</string>
+    <string name="title_activity_two_weeks_insertion">Add Shifts</string>
+    <string name="title_activity_query_dates_manager">Results</string>
+    <string name="title_activity_display_shift">Display Shift</string>
+    <string name="title_activity_show_app_info">Help</string>
+    <string name="title_activity_display_extra_repo">Day Off Details</string>
+    <string name="title_activity_show_worked_holidays">Sundays - Holidays</string>
+    <string name="title_activity_show_sum_results">Shifts in Details</string>
+    <string name="title_activity_show_report_of_repo">Extended Day off</string>
+    <string name="title_activity_developer_info">Developer</string>
+    <string name="title_activity_display_web_info">facebook</string>
+    <string name="title_activity_display_of_work_year">Display Work Permit</string>
+    <string name="title_activity_update_employee">Change Employee</string>
+    <string name="title_activity_update_shift">Change Shift</string>
+    <string name="title_activity_update_of_work">Change Work Permit</string>
+    <string name="title_activity_display_interval_of_shifts">DesplayIntervalOfShifts</string>
+    <string android:id="@+id/string1" name="NameOfWeekDay" android:layout_width="wrap_content" android:layout_height="wrap_content">Day</string>
+    <string android:id="@+id/string2" name="titleOfLastShifts" android:layout_width="wrap_content" android:layout_height="wrap_content">Last Program</string>
+    <string android:id="@+id/string3" name="ShiftValue" android:layout_width="wrap_content" android:layout_height="wrap_content">Shift</string>
+    <string name="ShiftDate">Date</string>
+    <string name="ShiftWeekDay">Day</string>
+    <string name="ShiftCurValue">Shift</string>
+    <string name="ShiftSunday">Sunday</string>
+    <string name="ShiftHoliday">Holiday</string>
+    <string name="Spinner_DayPrompt">Select Day</string>
+    <string name="Spinner_DatePrompt">Select Date</string>
+    <string name="Spinner_ShiftPrompt">Select Shift</string>        
+    <string name="ComensShift_item">Comments</string>
+    <string name="Button_Back">Return</string>
+    <string name="Button_OK">OK</string>
+    <string name="Button_Delete">Delete</string>
+    <string name="button_presh_here">Touch Here</string>
+    <string name="button_title_set_date">Set First</string>
+    <string name="Start_Date">From Date</string>
+    <string name="End_Date">To Date</string>
+    <string name="Help">Help</string>
+    <string name="label_emplo_code">User Id</string>
+    <string name="label_emplo_name">Name</string>
+    <string name="label_emplo_lastname">Last Name</string>
+    <string name="label_emplo_address">Address</string>
+    <string name="label_emplo_phone">Phone</string>
+    <string name="label_emplo_mobile">Mobile</string>
+    <string name="label_emplo_job">Job</string>
+    <string name="label_emplo_company">Company</string>
+    <string name="label_emplo_departement">Sector</string>
+    <string name="label_emplo_grade">Grade</string>
+    <string name="label_emplo_photo">Photo</string>
+    <string name="label_one_shift_date">Date</string>
+    <string name="label_one_shift_day">Day</string>
+    <string name="label_one_shift_shift">Shift</string>
+    <string name="label_one_shift_sunday">Sunday</string>
+    <string name="label_one_shift_holiday">Holiday</string>
+    <string name="label_one_shift_coments">Comments</string>
+    <string name="label_one_shift_holiday_name">Holiday Name</string>
+    <string name="label_title_appl_info">Help - Shifts</string>
+    <string name="label_dialog_start_time">Start Time</string>
+    <string name="label_dialog_end_time">End Time</string>
+    <string name="label_day_off_annualdayoffs">Annual Day off</string>
+    <string name="label_repo_you_have_taken">Have taken</string>
+    <string name="label_repo_rights_in_dayoff">Found extra</string>
+    <string name="label_repo_have_taken_extra">Have taken extra</string>
+    <string name="label_repo_rest_extra_dayoff">Rest of extra</string>
+    <string name="label_title_display_interval_of_shifts">Time Interval of Shifts</string>
+    <string name="label_annual_leave_year">Year of Leave</string>
+    <string name="label_annual_leave_categ_name">Annual Leave</string>
+    <string name="label_annual_leave_have_right">Have Rights</string>
+    <string name="label_annual_leave_have_taken">Have taken</string>
+    <string name="label_annual_leave_rest">Rest</string>
+    <string name="label_annual_leave_categ_others">Others</string>
+    <string name="label_total_shifts">Total Shifts</string>
+    <string name="label_day_off_total">Total Day off</string>
+    <string name="label_day_off_3_days">3-days</string>
+    <string name="label_day_off_4_days">4-days</string>
+    <string name="label_day_off_5_days">5-days</string>
+    <string name="label_sum_results_mornings">Morning</string>
+    <string name="label_sum_results_aftenoon">Afternoon</string>
+    <string name="label_sum_results_nights">Night</string>
+    <string name="label_sum_results_days_off">Day off</string>
+    <string name="label_sum_results_sicks">Sick</string>
+    <string name="label_user_name">User Name</string>
+    <string name="label_user_pass">Password</string>
+    <string name="label_wrong_pass">Password is incorrect</string>
+    <string name="title_username_pass">Ender Username-Password</string>
+    <string name="title_pass">Enter Password</string>
+    <string name="mes_wrong_user">Username is Empty !!!</string>
+    <string name="mes_wrong_pass">Password is Empty !!!</string>
+    <string name="message_update_photo">Your Photo Has Changed</string>
+
+    <!-- Labels annual offworks -->
+    <string name="label_leave_selection">Επιλογή Αδείας</string>
+    <string name="label_leave_start_date">Ημ/νία Έναρξης</string>
+    <string name="label_leave_end_date">Ημ/νία Λήξης</string>
+    <string name="label_leave_category">Κατηγορία</string>
+    <string name="label_leave_year">Έτος Αδείας</string>
+    <string name="label_leave_duration">Διάρκεια</string>
+    <string name="label_leave_total_rights">Δικαιούστε</string>
+    <string name="label_offworks_number">No</string>
+    <string name="label_offworks_from">From</string>
+    <string name="label_offworks_to">To</string>
+    <string name="label_offworks_days">Days</string>
+    <string name="label_offworks_type">Type</string>
+    <string name="title_activity_year_of_works">YearOfWorks</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_settings_shifts">Settings</string>
+
+    <!-- Strings related to Settings -->
+    <!-- General settings -->
+    <string name="pref_categ_general_title">General</string>
+    <string name="pref_header_general">General</string>
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">
+    Recommendations for people to contact based on your message history</string>
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+
+    <!-- Language settings -->
+    <string name="pref_title_header_language">Language</string>
+    <string name="pref_title_select_language">Selected Language</string>
+
+    <string-array name="pref_language_list_titles">
+        <item>Greek</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="pref_language_list_values">
+        <item>el</item>
+        <item>en</item>
+    </string-array>
+
+    <!-- Settings for Password -->
+
+    <string name="pref_title_header_password">Password</string>
+    <string name="pref_title_password">Using Password</string>
+    <string name="pref_set_password">Enter Password</string>
+    <string name="pref_use_password">Use Password</string>
+    <string name="pref_add_password">Add Password</string>
+    <string name="pref_title_password_prompt">Password</string>
+
+    <string-array name="pref_using_password">
+        <item>activated</item>
+        <item>disabled</item>
+    </string-array>
+    <string-array name="pref_pass_using_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <!-- Settings for Backround -->
+    <string name="pref_title_header_background">Background</string>
+    <string name="pref_title_background">Set Background</string>
+
+    <string-array name="pref_background_titles">
+        <item>blue </item>
+        <item>blue light</item>
+        <item>blue nice 1</item>
+        <item>blue nice 2</item>
+        <item>moon</item>
+        <item>galaxy</item>
+        <item>natureu 1</item>
+        <item>natureu 2</item>
+        <item>natureu 3</item>
+        <item>natureu 4</item>
+        <item>rain 1</item>
+        <item>rain 2</item>
+        <item>black</item>
+    </string-array>
+    <string-array name="pref_background_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+    <!-- Settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_title_header_notifications">Notifications</string>
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="title_activity_shift_settings">Settings</string>
+</resources>

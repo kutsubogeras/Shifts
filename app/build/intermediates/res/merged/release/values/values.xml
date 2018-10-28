@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/apk/res/android">
+    <string-array name="list_preference_entries">
+        <item>Εισαγωγή 1</item>
+        <item>Εισαγωγή 2</item>
+        <item>Εισαγωγή 3</item>
+    </string-array>
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="multi_select_list_preference_default_value"/>
+    <string-array name="pref_background_titles">
+        <item>blue </item>
+        <item>blue light</item>
+        <item>blue nice 1</item>
+        <item>blue nice 2</item>
+        <item>moon</item>
+        <item>galaxy</item>
+        <item>natureu 1</item>
+        <item>natureu 2</item>
+        <item>natureu 3</item>
+        <item>natureu 4</item>
+        <item>rain 1</item>
+        <item>rain 2</item>
+        <item>black</item>
+    </string-array>
+    <string-array name="pref_background_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="pref_example_list_titles">
+        <item>Πάντα</item>
+        <item>Όταν ειναι δυνατό</item>
+        <item>Ποτέ</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="pref_language_list_titles">
+        <item>Ελληνικά</item>
+        <item>Αγγλικά</item>
+    </string-array>
+    <string-array name="pref_language_list_values">
+        <item>el</item>
+        <item>en</item>
+    </string-array>
+    <string-array name="pref_pass_using_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>1 Ώρα</item>
+        <item>3 Ώρες</item>
+        <item>6 Ώρες</item>
+        <item>Ποτέ</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="pref_using_password">
+        <item>Ενεργό</item>
+        <item>Ανενεργό</item>
+    </string-array>
+    <color name="Color_Black">#040000</color>
+    <color name="Color_Black_Light">#444</color>
+    <color name="Color_Burlywood">#FFD39B</color>
+    <color name="Color_Dark_Gray">#b5b5b5</color>
+    <color name="Color_Dark_Gray_2">#A9A9A9</color>
+    <color name="Color_Dark_Green">#32CD32</color>
+    <color name="Color_Dark_Green2">#308015</color>
+    <color name="Color_Dark_Green3">#006400</color>
+    <color name="Color_Gainsboro">#AABBCC</color>
+    <color name="Color_Gray">#d6d6d6</color>
+    <color name="Color_Green">#0f0</color>
+    <color name="Color_Green2">#66CD00</color>
+    <color name="Color_LavenderBlush2">#EEE0E5</color>
+    <color name="Color_LavenderBlush3">#CDC1C5</color>
+    <color name="Color_LightCoral">#F08080</color>
+    <color name="Color_Magenta">#e922dd</color>
+    <color name="Color_MediumTurquoise">#48D1CC</color>
+    <color name="Color_Moccasin">#FFE4B5</color>
+    <color name="Color_Monument">#00fa94</color>
+    <color name="Color_NewPink">#FF6EC7</color>
+    <color name="Color_Orange">#ff8000</color>
+    <color name="Color_OrangeLight">#FFA54F</color>
+    <color name="Color_PaleTurquoise3">#96CDCD</color>
+    <color name="Color_Red">#ce0606</color>
+    <color name="Color_SlateGray3">#9FB6CD</color>
+    <color name="Color_SlateGray4">#6C7B8B</color>
+    <color name="Color_SummerSky">#38B0DE</color>
+    <color name="Color_Table_End">#707070</color>
+    <color name="Color_Table_Start">#212121</color>
+    <color name="Color_Table_Start_yellow">#FFF68F</color>
+    <color name="Color_VeryDark_Green">#008000</color>
+    <color name="Color_VeryLightGrey">#EBEBEB</color>
+    <color name="Color_White">#fff</color>
+    <color name="Color_WhiteSmoke">#F5F5F5</color>
+    <color name="Color_back_slider">#E0EEEE</color>
+    <color name="Color_blue">#0000ff</color>
+    <color name="Color_dark_Gray">#b5b5b5</color>
+    <color name="Color_dark_blue">#1874CD</color>
+    <color name="Color_dark_cyan">#008080</color>
+    <color name="Color_deep_skyblue">#009ACD</color>
+    <color name="Color_gray_silver">#C0C0C0</color>
+    <color name="Color_green_Park">#A2CD5A</color>
+    <color name="Color_green_Religious">#32CD32</color>
+    <color name="Color_green_blue">#3D89A1</color>
+    <color name="Color_hotel_purple">#5a1c86</color>
+    <color name="Color_light_blue">#00aaff</color>
+    <color name="Color_light_blue2">#00FFFF</color>
+    <color name="Color_light_cyan2">#96CDCD</color>
+    <color name="Color_light_gray">#E5E5E5</color>
+    <color name="Color_light_gray_2">#D3D3D3</color>
+    <color name="Color_light_green">#00aabb</color>
+    <color name="Color_light_green2">#98FB98</color>
+    <color name="Color_light_sky_blue">#87CEFA</color>
+    <color name="Color_light_yellow">#FFF68F</color>
+    <color name="Color_light_yellow2">#FFFACD</color>
+    <color name="Color_mov_Museum">#800080</color>
+    <color name="Color_orange_Restaur">#FF9912</color>
+    <color name="Color_peacock">#33A1C9</color>
+    <color name="Color_red_black">#CD3333</color>
+    <color name="Color_sky_blue">#6CA6CD</color>
+    <color name="Color_slider_progress">#00CD66</color>
+    <color name="Color_steel_blue">#4F94CD</color>
+    <color name="Color_transparent1">#00777777</color>
+    <color name="Color_transparent2">#00ffffff</color>
+    <color name="Color_veryLight_cyan">#BBFFFF</color>
+    <color name="Color_verydark_blue">#27408B</color>
+    <color name="Color_yellow">#FFFF00</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_corner_radius">10px</dimen>
+    <dimen name="label_corner_radius">10px</dimen>
+    <dimen name="label_small_corner_radius">5px</dimen>
+    <dimen name="layout_corner_radius">8px</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <dimen name="rounded_corner_button">53px</dimen>
+    <dimen name="rounded_corner_image_user">18px</dimen>
+    <dimen name="searchView_corner_radius">25px</dimen>
+    <dimen name="textField_corner_radius">10px</dimen>
+    <string name="Button_Back">Επιστροφή</string>
+    <string name="Button_Delete">Διαγραφή</string>
+    <string name="Button_OK">OK</string>
+    <string name="ComensShift_item">Σχόλια</string>
+    <string name="End_Date">Έως Ημερομηνία</string>
+    <string name="Help">Βοήθεια</string>
+    <string ns1:id="@+id/string1" ns1:layout_height="wrap_content" ns1:layout_width="wrap_content" name="NameOfWeekDay">Ημέρα</string>
+    <string name="ShiftCurValue">Βάρδια</string>
+    <string name="ShiftDate">Ημερ/νία</string>
+    <string name="ShiftHoliday">Αργία</string>
+    <string name="ShiftSunday">Κυριακή</string>
+    <string ns1:id="@+id/string3" ns1:layout_height="wrap_content" ns1:layout_width="wrap_content" name="ShiftValue">Βάρδια</string>
+    <string name="ShiftWeekDay">Ημέρα</string>
+    <string name="Spinner_DatePrompt">Επέλεξε Ημερομηνία</string>
+    <string name="Spinner_DayPrompt">Επέλεξε Ημέρα</string>
+    <string name="Spinner_ShiftPrompt">Επέλεξε Βάρδια</string>
+    <string name="Start_Date">Από Ημερομηνία</string>
+    <string name="action_example">Παράδειγμα Δράσης</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Shifts</string>
+    <string name="button_presh_here">Πατήστε εδώ</string>
+    <string name="button_title_set_date">Ανάθεση</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="label_annual_leave_categ_name">Κανονική Άδεια</string>
+    <string name="label_annual_leave_categ_others">Λοιπές Άδειες</string>
+    <string name="label_annual_leave_have_right">Δικαιούστε</string>
+    <string name="label_annual_leave_have_taken">Πήρατε</string>
+    <string name="label_annual_leave_rest">Υπόλοιπο</string>
+    <string name="label_annual_leave_year">Έτος Αδείας</string>
+    <string name="label_day_off_3_days">3-ήμερα</string>
+    <string name="label_day_off_4_days">4-ήμερα</string>
+    <string name="label_day_off_5_days">5-ήμερα</string>
+    <string name="label_day_off_annualdayoffs">Δικαιούστε</string>
+    <string name="label_day_off_total">Πλήθος Ρεπό</string>
+    <string name="label_dialog_end_time">Ώρα Λήξης</string>
+    <string name="label_dialog_start_time">Ώρα Έναρξης</string>
+    <string name="label_emplo_address">Διεύθυνση</string>
+    <string name="label_emplo_code">Κωδικός</string>
+    <string name="label_emplo_company">Εταιρεία</string>
+    <string name="label_emplo_departement">Τομέας</string>
+    <string name="label_emplo_grade">Βαθμός</string>
+    <string name="label_emplo_job">Επάγγελμα</string>
+    <string name="label_emplo_lastname">Επώνυμο</string>
+    <string name="label_emplo_mobile">Κινητό Τηλ.</string>
+    <string name="label_emplo_name">Όνομα</string>
+    <string name="label_emplo_phone">Τηλέφωνο</string>
+    <string name="label_emplo_photo">Φωτογραφία</string>
+    <string name="label_leave_category">Κατηγορία</string>
+    <string name="label_leave_duration">Διάρκεια</string>
+    <string name="label_leave_end_date">Ημ/νία Λήξης</string>
+    <string name="label_leave_selection">Επιλογή Αδείας</string>
+    <string name="label_leave_start_date">Ημ/νία Έναρξης</string>
+    <string name="label_leave_total_rights">Δικαιούστε</string>
+    <string name="label_leave_year">Έτος Αδείας</string>
+    <string name="label_offworks_days">Days</string>
+    <string name="label_offworks_from">From</string>
+    <string name="label_offworks_number">No</string>
+    <string name="label_offworks_to">To</string>
+    <string name="label_offworks_type">Type</string>
+    <string name="label_one_shift_coments">Σχόλια</string>
+    <string name="label_one_shift_date">Ημερομηνία</string>
+    <string name="label_one_shift_day">Ημέρα</string>
+    <string name="label_one_shift_holiday">Αργία</string>
+    <string name="label_one_shift_holiday_name">Όνομα Αργίας</string>
+    <string name="label_one_shift_shift">Βάρδια</string>
+    <string name="label_one_shift_sunday">Κυριακή</string>
+    <string name="label_repo_have_taken_extra">Πήρατε Extra</string>
+    <string name="label_repo_rest_extra_dayoff">Σας Ωφείλουν</string>
+    <string name="label_repo_rights_in_dayoff">Δικαιούστε Extra</string>
+    <string name="label_repo_you_have_taken">Πήρατε</string>
+    <string name="label_sum_results_aftenoon">Απογεύματα</string>
+    <string name="label_sum_results_days_off">Ρεπό</string>
+    <string name="label_sum_results_mornings">Πρωϊνά</string>
+    <string name="label_sum_results_nights">Βράδια</string>
+    <string name="label_sum_results_sicks">Ασθένεια</string>
+    <string name="label_title_appl_info">Οδηγός της Εφαρμογής</string>
+    <string name="label_title_display_interval_of_shifts">Χρονικό Διάστημα Βαρδιών</string>
+    <string name="label_total_shifts">Πλήθος Βαρδιών</string>
+    <string name="label_user_name">Όνομα Χρήστη</string>
+    <string name="label_user_pass">Κωδικός</string>
+    <string name="label_wrong_pass">Λάθος Κωδικός !!!</string>
+    <string name="menu_settings">Ρυθμίσεις</string>
+    <string name="mes_wrong_pass">Δεν συμπληρώσατε Password</string>
+    <string name="mes_wrong_user">Δεν συμπληρώσατε Username</string>
+    <string name="message_update_photo">Η Φωτογραφία Άλλαξε</string>
+    <string name="navigation_drawer_close">Κλείσιμο Πλοηγητή</string>
+    <string name="navigation_drawer_open">Άνοιγμα Πλοηγητή</string>
+    <string name="pref_add_password">Εισαγωγή Κωδικού</string>
+    <string name="pref_categ_general_title">Γενικά</string>
+    <string name="pref_default_display_name">Το Όνομά σου...</string>
+    <string name="pref_description_social_recommendations">Συστάσεις για επαφές με ανθρώπους που
+        βασίζονται στο ιστορικό των μηνυμάτων σου</string>
+    <string name="pref_header_data_sync">Δεδομένα &amp; sync</string>
+    <string name="pref_header_general">Γενικά</string>
+    <string name="pref_header_notifications">Υπενθυμίσεις</string>
+    <string name="pref_ringtone_silent">Σιωπηλό</string>
+    <string name="pref_set_password">Εισαγωγή Κωδικού</string>
+    <string name="pref_title_add_friends_to_messages">Προσθήκη Φίλων στα Μηνύματα</string>
+    <string name="pref_title_background">Επιλογή Φόντου</string>
+    <string name="pref_title_display_name">Όνομα Χρήστη</string>
+    <string name="pref_title_header_background">Φόντο</string>
+    <string name="pref_title_header_language">Γλώσσα</string>
+    <string name="pref_title_header_notifications">Υπενθυμίσεις</string>
+    <string name="pref_title_header_password">Κωδικός Εφαρμογής</string>
+    <string name="pref_title_new_message_notifications">Μήνυμα Υπενθύμισης</string>
+    <string name="pref_title_password">Χρήση Κωδικού</string>
+    <string name="pref_title_password_prompt">Password</string>
+    <string name="pref_title_ringtone">Κουδούνισμα</string>
+    <string name="pref_title_select_language">Επιλογή Γλώσσας</string>
+    <string name="pref_title_social_recommendations">Ενεργοποίηση Κοινωνικών Συστάσεων</string>
+    <string name="pref_title_sync_frequency">Συχνότητα Συγχρονισμού</string>
+    <string name="pref_title_system_sync_settings">Συγχ. Ρυθμίσεων Συστήματος</string>
+    <string name="pref_title_vibrate">Δόνηση</string>
+    <string name="pref_use_password">Χρήση Κωδικού</string>
+    <string ns1:id="@+id/string2" ns1:layout_height="wrap_content" ns1:layout_width="wrap_content" name="titleOfLastShifts">Τελευταίο Πρόγραμμα</string>
+    <string name="title_activity_developer_info">Δημιουργός Εφαρμογής</string>
+    <string name="title_activity_diary_view">ΗΜΕΡΟΛΟΓΙΟ</string>
+    <string name="title_activity_display_extra_repo">Τα Ρεπό Αναλυτικά</string>
+    <string name="title_activity_display_interval_of_shifts">DesplayIntervalOfShifts</string>
+    <string name="title_activity_display_of_work_year">Προβολή Αδειών</string>
+    <string name="title_activity_display_shift">Προβολή Βάρδιας</string>
+    <string name="title_activity_display_web_info">facebook</string>
+    <string name="title_activity_insertion_of_employee">Προσθήκη Εργαζομένου</string>
+    <string name="title_activity_of_work_insertion">Προσθήκη Αδείας</string>
+    <string name="title_activity_one_shift_insertion">Προσθήκη Βάρδιας</string>
+    <string name="title_activity_paid_leave_manager">PaidLeaveManager</string>
+    <string name="title_activity_query_dates_manager">Αποτελέσματα</string>
+    <string name="title_activity_settings_shifts">Ρυθμίσεις</string>
+    <string name="title_activity_shift_manager">ShiftManager</string>
+    <string name="title_activity_shift_settings">Ρυθμίσεις</string>
+    <string name="title_activity_show_app_info">Βοήθεια</string>
+    <string name="title_activity_show_report_of_repo">Ρεπό Εκτεταμένης Διάρκειας</string>
+    <string name="title_activity_show_sum_results">Ανάλυση Βαρδιών</string>
+    <string name="title_activity_show_worked_holidays">Κυριακές - Αργίες</string>
+    <string name="title_activity_two_weeks_insertion">Εισαγωγή Βαρδιών</string>
+    <string name="title_activity_update_employee">Αλλαγή Εργαζόμενου</string>
+    <string name="title_activity_update_of_work">Αλλαγή Άδειας</string>
+    <string name="title_activity_update_shift">Αλλαγή Βάρδιας</string>
+    <string name="title_activity_year_of_works">Έτος Ρεπό</string>
+    <string name="title_pass">Εισαγωγή Password</string>
+    <string name="title_section1">Βάρδιες</string>
+    <string name="title_section2">Εργαζόμενος</string>
+    <string name="title_section3">Τρέχον Πρόγραμμα</string>
+    <string name="title_section4">Κανονική Αδεια</string>
+    <string name="title_section5">Ερωτήσεις</string>
+    <string name="title_username_pass">Εισαγωγή Username-Password</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="BackgroundButtonsStyle">
+        <item name="android:background">@drawable/background_for_buttons_rounded_corners</item>
+    </style>
+    <style name="ButtonRoundedCornersStyle">
+        <item name="android:background">@drawable/button_rounded_corners</item>
+    </style>
+    <style name="CalendarRoundedButton">
+        <item name="android:background">@drawable/calendar_unfocus_ok_button</item>
+    </style>
+    <style name="CustomCalendarViewStyle" parent="android:Widget.CalendarView">
+        <item name="android:focusedMonthDateColor">@color/Color_blue</item>
+        <item name="android:weekNumberColor">@color/Color_Red</item>
+        <item name="android:weekDayTextAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="android:dateTextAppearance">@style/DateStyle</item>  
+        <item name="android:weekSeparatorLineColor">#00ff00</item>         
+    </style>
+    <style name="DateStyle" parent="android:style/TextAppearance.Medium">
+        <item name="android:textColor">#0000ff</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="LabelAddShiftsRoundedCornerStyle">
+        <item name="android:background">@drawable/labels_shift_insert_with_rounded_corners</item>
+    </style>
+    <style name="LabelRoundedCornerStyle">
+        <item name="android:background">@drawable/labels_with_rounded_corners</item>
+    </style>
+    <style name="LabelShowWorkedRoundedCornerStyle">
+        <item name="android:background">@drawable/labels_show_worked_rounded_corners</item>
+    </style>
+    <style name="LabelStyle_WithGreenStroke">
+        <item name="android:background">@drawable/label_with_green_stroke</item>
+    </style>
+    <style name="LayoutRoundedCornerStyle">
+        <item name="android:background">@drawable/layout_with_rounded_corners</item>
+    </style>
+    <style name="ListShiftsStyleWithRedStroke">
+         <item name="android:background">@drawable/background_for_list_red_stroke</item>
+     </style>
+    <style name="ListShiftsStyleWithStroke">
+         <item name="android:background">@drawable/background_for_list_white_stroke</item>
+     </style>
+    <style name="MyGreenRoundedButton">
+        <item name="android:background">@drawable/rounded_corners_green_button</item>
+    </style>
+    <style name="MyLayoutForButtonsStyle">
+        <item name="android:background">@drawable/rounded_corners_layout_for_buttons</item>
+    </style>
+    <style name="MyLayoutForPageButtonsStyle">
+        <item name="android:background">@drawable/rounded_corners_layout_for_page_buttons</item>
+    </style>
+    <style name="MyLayoutForShiftFormStyle">
+        <item name="android:background">@drawable/layout_shift_form_rounded_corners</item>
+    </style>
+    <style name="MyRoundedImageButtonStyle">
+        <item name="android:background">@drawable/rounded_corners_image_button</item>
+    </style>
+    <style name="MyRoundedLightDarkLightStyle">
+        <item name="android:background">@drawable/rounded_corners_light_dark_light</item>
+    </style>
+    <style name="MyRoundedSpinnerStyle">
+        <item name="android:background">@drawable/spinner_background</item>
+    </style>
+    <style name="MyRoundedTextField">
+        <item name="android:background">@drawable/rounded_corners_textfield</item>
+    </style>
+    <style name="MyShiftAddDatesButtonStyle">
+        <item name="android:background">@drawable/shift_unfocus_add_dates_button</item>
+    </style>
+    <style name="MyShiftOKButtonStyle">
+        <item name="android:background">@drawable/shift_unfocus_ok_button</item>
+    </style>
+    <style name="MyShiftResetButtonStyle">
+        <item name="android:background">@drawable/shift_unfocus_reset_button</item>
+    </style>
+    <style name="MyYellowRoundedButton">
+        <item name="android:background">@drawable/rounded_corners_yellow_button</item>
+    </style>
+    <style name="RotateImageStyle">
+        <item name="android:background">@drawable/rotate_image_background</item>
+    </style>
+    <style name="SelectedListItemStyle">
+        <item name="android:background">@drawable/selected_item_background</item>
+    </style>
+    <style name="TextFieldAddShiftsFormStyle">
+        <item name="android:background">@drawable/textfield_add_shifts_rounded_corners</item>
+    </style>
+    <style name="TextFieldFirstDateAddShiftsFormStyle">
+        <item name="android:background">@drawable/textfield_first_date_add_shifts_rounded_corners</item>
+    </style>
+    <style name="TextFieldForShowShiftsStyle">
+        <item name="android:background">@drawable/textfield_show_shift_in_list</item>
+    </style>
+    <style name="TextFieldRoundedStrokeCornersStyle">
+        <item name="android:background">@drawable/textfield_rounded_corners_stroke</item>
+    </style>
+    <style name="TextFieldStyleForHolidayListValue">
+        <item name="android:background">@drawable/textfield_background_for_holiday_list_value</item>
+    </style>
+    <style name="TextFieldStyleForPhotoSearch">
+        <item name="android:background">@drawable/background_for_search_photo</item>
+    </style>
+    <style name="TextFieldStyleForQueryDates">
+        <item name="android:background">@drawable/textfield_background_for_query_dates</item>
+    </style>
+    <style name="TextFieldStyleForShiftListValue">
+        <item name="android:background">@drawable/textfield_background_blue_for_shift_list_value</item>
+    </style>
+    <style name="TextFieldStyle_WithBlueStroke">
+        <item name="android:background">@drawable/textfield_with_blue_stroke</item>
+    </style>
+    <style name="TextFieldStyle_WithGreenStroke">
+        <item name="android:background">@drawable/textfield_with_green_stroke</item>
+    </style>
+    <style name="TextFieldStyle_WithRedStroke">
+        <item name="android:background">@drawable/textfield_with_red_stroke</item>
+    </style>
+    <style name="TextFieldStyle_WithYeloowStroke">
+        <item name="android:background">@drawable/textfield_with_yellow_stroke</item>
+    </style>
+</resources>

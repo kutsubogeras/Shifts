@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\warning.png",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_drawer.png",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\info_icon.png",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\info_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\error_icon.png",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\error_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\drawer_shadow.9.png",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\facebook.png",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\alert.png",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\alert.png"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\calendar.png",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\calendar.png"
+    }
+]

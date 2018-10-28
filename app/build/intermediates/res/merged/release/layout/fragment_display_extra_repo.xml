@@ -1,0 +1,210 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaper_galaxy"
+    tools:context="com.kutsubogeras.shifts.DisplayExtraRepo$PlaceholderFragment" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView_ExtraRepo_Title"
+            style="@style/BackgroundButtonsStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|center_horizontal"
+            android:minHeight="45dp"
+            android:text="Extra  Ρεπό"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="24sp"
+            android:textStyle="italic" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp" >
+
+            <TextView
+                android:id="@+id/textView_SumResults_SumRepo"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:maxLines="1"
+                android:maxWidth="115dp"
+                android:minLines="1"
+                android:minWidth="135dp"
+                android:paddingLeft="3dp"
+                android:text="@string/label_day_off_annualdayoffs"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView_ExtraRepo_SumRepo"
+                style="@style/TextFieldStyle_WithBlueStroke"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="15dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:minHeight="35dp"
+                android:minWidth="100dp"
+                android:textColor="@color/Color_blue"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_SumResults_SumShifts"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:maxWidth="115dp"
+                android:minWidth="135dp"
+                android:paddingLeft="3dp"
+                android:text="@string/label_repo_you_have_taken"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView_ExtraRepo_SumTake"
+                style="@style/TextFieldStyle_WithGreenStroke"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="15dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:minHeight="35dp"
+                android:minWidth="100dp"
+                android:textColor="@color/Color_Dark_Green3"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_SumResults_SumMorning"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:maxLines="1"
+                android:maxWidth="115dp"
+                android:minLines="1"
+                android:minWidth="135dp"
+                android:paddingLeft="3dp"
+                android:text="@string/label_repo_rights_in_dayoff"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView_ExtraRepo_Extra"
+                style="@style/TextFieldStyle_WithBlueStroke"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="15dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:minHeight="35dp"
+                android:minWidth="100dp"
+                android:textColor="@color/Color_blue"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_ofWork_TypeOfWork"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:maxLines="1"
+                android:maxWidth="115dp"
+                android:minLines="1"
+                android:minWidth="135dp"
+                android:paddingLeft="3dp"
+                android:text="@string/label_repo_have_taken_extra"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView_ExtraRepo_ExtraTake"
+                style="@style/TextFieldStyle_WithGreenStroke"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="15dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:minHeight="35dp"
+                android:minWidth="100dp"
+                android:textColor="@color/Color_Dark_Green3"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_SumResults_SumNight"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:maxLines="1"
+                android:maxWidth="115dp"
+                android:minLines="1"
+                android:minWidth="135dp"
+                android:paddingLeft="3dp"
+                android:text="@string/label_repo_rest_extra_dayoff"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView_ExtraRepo_ExtraRest"
+                style="@style/TextFieldStyle_WithRedStroke"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="15dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:minHeight="35dp"
+                android:minWidth="100dp"
+                android:textColor="@color/Color_Red"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

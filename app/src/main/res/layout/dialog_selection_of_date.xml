@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+ 
+        <DatePicker
+            android:id="@+id/datePicker_dateSelect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:foregroundGravity="center_vertical|center_horizontal"
+            android:scaleX=".8"
+            android:scaleY=".8" />
+           <!-- To adribute scaleX, scaleY καθορίζει το μέγεθος του date picker εδω 80% -->       
+
+    </LinearLayout>
+
+</LinearLayout>

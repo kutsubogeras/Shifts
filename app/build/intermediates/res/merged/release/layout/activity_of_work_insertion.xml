@@ -1,0 +1,413 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container_query_dates_manager"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaper_galaxy"
+    tools:context="com.kutsubogeras.shifts.insert.OfWorkInsertion"
+    tools:ignore="MergeRootFrame" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp" >
+
+            <TextView
+                android:id="@+id/textView_"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left|center_vertical"
+                android:minHeight="40dp"
+                android:minWidth="140dp"
+                android:paddingLeft="5dp"
+                android:text="@string/label_leave_start_date"
+                android:textColor="@color/Color_Black"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView_OfWorkInsert_StartDate"
+                style="@style/TextFieldStyleForQueryDates"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxWidth="120dp"
+                android:minHeight="40dp"
+                android:minWidth="120dp"
+                android:text="@string/button_presh_here"
+                android:textColor="@color/Color_blue"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView_ItemResult_WeekDay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="5dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxWidth="20dp"
+                android:minHeight="40dp"
+                android:minWidth="20dp"
+                android:text="*"
+                android:textColor="@color/Color_Red"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_ExtraRepo_SumTake"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left|center_vertical"
+                android:minHeight="40dp"
+                android:minWidth="140dp"
+                android:paddingLeft="5dp"
+                android:text="@string/label_leave_end_date"
+                android:textColor="@color/Color_Black"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView_OfWorkInsert_EndDate"
+                style="@style/TextFieldStyleForQueryDates"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxWidth="120dp"
+                android:minHeight="40dp"
+                android:minWidth="120dp"
+                android:text="@string/button_presh_here"
+                android:textColor="@color/Color_Orange"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/section_label_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="5dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxWidth="20dp"
+                android:minHeight="40dp"
+                android:minWidth="20dp"
+                android:text="*"
+                android:textColor="@color/Color_Red"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_ofWork_TypeOfWork"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left|center_vertical"
+                android:minHeight="40dp"
+                android:minWidth="140dp"
+                android:paddingLeft="5dp"
+                android:text="@string/label_leave_category"
+                android:textColor="@color/Color_Black"
+                android:textSize="18sp" />
+
+            <Spinner
+                android:id="@+id/spinner_OfWorkInsert_OfWorkTypes"
+                style="@style/MyRoundedSpinnerStyle"
+                android:layout_width="120dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal" />
+
+            <TextView
+                android:id="@+id/textView_QueryEndDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="5dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxWidth="20dp"
+                android:minHeight="40dp"
+                android:minWidth="20dp"
+                android:text="*"
+                android:textColor="@color/Color_Red"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_ofWork_Year"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left|center_vertical"
+                android:minHeight="40dp"
+                android:minWidth="140dp"
+                android:paddingLeft="5dp"
+                android:text="@string/label_leave_year"
+                android:textColor="@color/Color_Black"
+                android:textSize="18sp" />
+
+            <Spinner
+                android:id="@+id/spinner_OfWorkInsert_OfWorkYear"
+                style="@style/MyRoundedSpinnerStyle"
+                android:layout_width="120dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal" />
+
+            <TextView
+                android:id="@+id/textView_Query_Results"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="5dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxWidth="20dp"
+                android:minHeight="40dp"
+                android:minWidth="20dp"
+                android:text="*"
+                android:textColor="@color/Color_Red"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_ofWork_duration"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left|center_vertical"
+                android:minHeight="40dp"
+                android:minWidth="140dp"
+                android:paddingLeft="5dp"
+                android:text="@string/label_leave_duration"
+                android:textColor="@color/Color_Black"
+                android:textSize="18sp" />
+
+            <Spinner
+                android:id="@+id/spinner_OfWorkInsert_Days"
+                style="@style/MyRoundedSpinnerStyle"
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal" />
+
+            <TextView
+                android:id="@+id/textView_ExtraRepo_ExtraRest"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="5dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxWidth="20dp"
+                android:minHeight="40dp"
+                android:minWidth="20dp"
+                android:text="*"
+                android:textColor="@color/Color_Red"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayout_OfWorkInsert_SumDays"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_SumResults_SumRepo"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:maxWidth="130dp"
+                android:minHeight="40dp"
+                android:minWidth="140dp"
+                android:paddingLeft="5dp"
+                android:text="@string/label_leave_total_rights"
+                android:textColor="@color/Color_Black"
+                android:textSize="18sp" />
+
+            <Spinner
+                android:id="@+id/spinner_OfWorkInsert_SumDays"
+                style="@style/MyRoundedSpinnerStyle"
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal" />
+
+            <TextView
+                android:id="@+id/TextView_ofWorkLabel_Privilege"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="5dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxWidth="20dp"
+                android:minHeight="40dp"
+                android:minWidth="20dp"
+                android:textColor="@color/Color_Red"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_ExtraRepo_SumRepo"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:maxWidth="130dp"
+                android:minHeight="40dp"
+                android:minWidth="140dp"
+                android:paddingLeft="5dp"
+                android:text="@string/label_one_shift_coments"
+                android:textColor="@color/Color_Black"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/EditText_OfWorkInsert_Comens"
+                style="@style/TextFieldRoundedStrokeCornersStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical"
+                android:inputType="text"
+                android:lines="1"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:maxHeight="40dp"
+                android:maxLength="50"
+                android:maxLines="1"
+                android:maxWidth="120dp"
+                android:minHeight="40dp"
+                android:minWidth="120dp"
+                android:scrollHorizontally="true"
+                android:textColor="@color/Color_Dark_Green2"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/TextView01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxWidth="20dp"
+                android:minHeight="40dp"
+                android:minWidth="20dp"
+                android:textColor="@color/Color_Red"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout_OfWorkInsert_Buttons"
+        style="@style/BackgroundButtonsStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center|end"
+        android:layout_marginBottom="2dp"
+        android:minHeight="55dp" >
+
+        <Button
+            android:id="@+id/button_OfWorkInsert_ButtonReturn"
+            style="@style/MyShiftAddDatesButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/shift_add_dates_button_background"
+            android:minWidth="95dp"
+            android:text="@string/Button_Back"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/button_OfWorkInsert_ButtonOK"
+            style="@style/MyShiftOKButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/shift_ok_button_background"
+            android:minWidth="80dp"
+            android:text="@string/Button_OK"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/button_OfWorkInsert_ButtonReset"
+            style="@style/MyShiftResetButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/shift_reset_button_background"
+            android:minWidth="95dp"
+            android:text="@string/Button_Delete"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+</FrameLayout>
+

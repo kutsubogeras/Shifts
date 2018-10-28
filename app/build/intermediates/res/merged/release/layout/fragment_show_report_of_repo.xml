@@ -1,0 +1,283 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/FrameLayout_employee_update"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:background="@drawable/wallpaper_galaxy"
+    tools:context="com.kutsubogeras.shifts.ShowReportOfRepo$PlaceholderFragment" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView_ReportRepo_Title"
+                style="@style/BackgroundButtonsStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|center_horizontal"
+                android:minHeight="50dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textSize="24sp"
+                android:textStyle="italic" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp" >
+
+            <TextView
+                android:id="@+id/textView_SumResults_SumMorning"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|center_horizontal"
+                android:minWidth="145dp"
+                android:text="@string/Start_Date"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/textView_ReportRepo_StartDate"
+                style="@style/TextFieldStyleForQueryDates"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:minHeight="35dp"
+                android:minWidth="110dp"
+                android:text="@string/button_presh_here"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/Color_blue" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_ofWork_TypeOfWork"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|center_horizontal"
+                android:minWidth="145dp"
+                android:text="@string/End_Date"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/textView_ReportRepo_EndDate"
+                style="@style/TextFieldStyleForQueryDates"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:minHeight="35dp"
+                android:minWidth="110dp"
+                android:text="@string/button_presh_here"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/Color_Orange" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_SumResults_SumShifts"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|center_horizontal"
+                android:minWidth="145dp"
+                android:text="@string/label_day_off_total"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/textView_ReportRepo_SumRepo"
+                style="@style/TextFieldAddShiftsFormStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:minWidth="110dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/Color_blue"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView11"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|center_horizontal"
+                android:minWidth="145dp"
+                android:text="@string/label_day_off_3_days"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/textView_ReportRepo_3DaysRepo"
+                style="@style/TextFieldAddShiftsFormStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:minWidth="110dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/Color_dark_cyan"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView14"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|center_horizontal"
+                android:minWidth="145dp"
+                android:text="@string/label_day_off_4_days"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/textView_ReportRepo_4DaysRepo"
+                style="@style/TextFieldAddShiftsFormStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:minWidth="110dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/Color_Magenta"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView16"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|center_horizontal"
+                android:minWidth="145dp"
+                android:text="@string/label_day_off_5_days"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/textView_ReportRepo_5DaysRepo"
+                style="@style/TextFieldAddShiftsFormStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:minWidth="110dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/Color_Red"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/listView_ReportRepo_List"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="62dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp" >
+
+        </ListView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/BackgroundButtonsStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:minHeight="55dp" >
+
+        <Button
+            android:id="@+id/button_ReportRepo_Back"
+            style="@style/MyShiftAddDatesButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/shift_add_dates_button_background"
+            android:minWidth="95dp"
+            android:text="@string/Button_Back" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/button_ReportRepo_OK"
+            style="@style/MyShiftOKButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/shift_ok_button_background"
+            android:minWidth="90dp"
+            android:text="@string/Button_OK" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/button_ReportRepo_Reset"
+            style="@style/MyShiftResetButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/shift_reset_button_background"
+            android:minWidth="87dp"
+            android:text="@string/Button_Delete" />
+
+    </LinearLayout>
+
+</FrameLayout>

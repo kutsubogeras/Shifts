@@ -1,0 +1,219 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/item_of_results_list_view"
+    style="@style/TextFieldRoundedStrokeCornersStyle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Color_light_gray"
+    android:clickable="false"
+    android:minHeight="105dp"
+    android:orientation="vertical"
+    android:paddingTop="2dp" >
+
+    <LinearLayout
+        android:id="@+id/LinearLayout_Row2_Dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/ImageView_RowNumberShiftList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dp"
+            android:clickable="false"
+            android:maxHeight="25dp"
+            android:maxWidth="25dp"
+            android:minHeight="25dp"
+            android:minWidth="25dp"
+            android:scaleType="fitXY"
+            tools:ignore="ContentDescription" />
+
+        <EditText
+            android:id="@+id/EditText_Date_ItemOfList"
+            style="@style/TextFieldForShowShiftsStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:gravity="center_vertical|center_horizontal"
+            android:maxWidth="75dp"
+            android:minHeight="25dp"
+            android:minWidth="71dp"
+            android:textColor="@color/Color_Orange"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/EditText_Weekday_ItemOfList"
+            style="@style/TextFieldForShowShiftsStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center"
+            android:layout_marginLeft="7dp"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:gravity="center_vertical|center_horizontal"
+            android:maxWidth="90dp"
+            android:minHeight="25dp"
+            android:minWidth="88dp"
+            android:textColor="@color/Color_blue"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/EditText_Shift_ItemOfList"
+            style="@style/TextFieldStyleForShiftListValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginLeft="7dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:gravity="center_vertical|center_horizontal"
+            android:maxWidth="80dp"
+            android:minHeight="25dp"
+            android:minWidth="75dp"
+            android:textColor="@color/Color_blue"
+            android:textSize="15sp"
+            android:textStyle="bold" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout_Row2_ShiftList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="1dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/section_label3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ShiftSunday"
+            android:textColor="@color/Color_Black"
+            android:textSize="16sp" />
+
+        <CheckBox
+            android:id="@+id/checkBox_SundayShiftList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Color_WhiteSmoke"
+            android:clickable="false"
+            android:gravity="left|center_vertical"
+            android:maxHeight="28dp"
+            android:maxLines="1"
+            android:maxWidth="30dp"
+            android:minHeight="28dp"
+            android:minWidth="30dp" />
+
+        <TextView
+            android:id="@+id/textView_OfWork_TotalDays"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="@string/ShiftHoliday"
+            android:textColor="@color/Color_Black"
+            android:textSize="16sp" />
+
+        <CheckBox
+            android:id="@+id/checkBox_HolidayShiftList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Color_WhiteSmoke"
+            android:clickable="false"
+            android:gravity="left|center_vertical"
+            android:maxHeight="28dp"
+            android:maxLines="1"
+            android:maxWidth="30dp"
+            android:minHeight="28dp"
+            android:minWidth="30dp" />
+
+        <TextView
+            android:id="@+id/TextView_HolidayName_ShiftList"
+            style="@style/TextFieldStyleForHolidayListValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"
+            android:clickable="false"
+            android:ellipsize="none"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:gravity="center_vertical|center_horizontal"
+            android:inputType="text"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:maxHeight="25dp"
+            android:maxLines="1"
+            android:minHeight="25dp"
+            android:minLines="1"
+            android:minWidth="103dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:textColor="@color/Color_green_blue"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:typeface="sans"
+            android:visibility="invisible" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout_Row3_ShiftList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/textView_ExtraRepo_SumTake"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="35dp"
+            android:text="@string/ComensShift_item"
+            android:textColor="@color/Color_Black"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/EditText_Comens_ShiftList"
+            style="@style/TextFieldForShowShiftsStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dp"
+            android:clickable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:gravity="center_vertical|center_horizontal"
+            android:inputType="text"
+            android:lines="1"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:maxHeight="25dp"
+            android:maxLines="1"
+            android:maxWidth="220dp"
+            android:minHeight="25dp"
+            android:minWidth="150dp"
+            android:textColor="@color/Color_Magenta"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

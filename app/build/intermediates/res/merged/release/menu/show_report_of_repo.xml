@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.kutsubogeras.shifts.ShowReportOfRepo" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    <item android:id="@+id/item1_report_repo_help" android:menuCategory="system" android:orderInCategory="0" android:checkable="true" android:enabled="true" android:visible="true"></item>
+
+</menu>

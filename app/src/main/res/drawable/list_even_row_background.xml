@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Δημιουργεί το Background των γραμμών της λίστας με άρτιο αριθμό-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+       android:shape="rectangle">
+    <corners
+       android:radius="@dimen/textField_corner_radius" />
+   <gradient
+       android:angle="90"
+       android:startColor="@color/Color_dark_cyan"
+       android:centerColor="@color/Color_light_cyan2"
+       android:endColor="@color/Color_White"
+       android:type="linear" />
+   <size
+       android:width="71dp"
+       android:height="35dp"/>
+</shape>

@@ -1,0 +1,334 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:2:1-174:12
+INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:2:1-174:12
+INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:2:1-174:12
+INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:2:1-174:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\bd53acb2c8eca92763b3f5c63954bfe2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\fe093d46946fb710432f6e49614631e2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\3ceb7ff20122d6fbd34114c4cd63b405\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\ea5a79c67f9a12d26dcf9fd72342a4ff\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ef58d30bb24e761729aa113d96315288\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\4ac2d855c619d63e2ca16fc2f75de648\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\4e8d993a3c65e256f62f03029d9579b4\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:2:1-174:12
+INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:2:1-174:12
+INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:2:1-174:12
+	package
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:4:11-35
+		INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:12:5-64
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:13:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:16:5-74
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:16:22-72
+uses-feature#android.hardware.camera
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:18:5-20:35
+	android:required
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:19:9-47
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:21:5-23:35
+	android:required
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:22:9-53
+application
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:25:5-172:19
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\bd53acb2c8eca92763b3f5c63954bfe2\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\bd53acb2c8eca92763b3f5c63954bfe2\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\fe093d46946fb710432f6e49614631e2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\fe093d46946fb710432f6e49614631e2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\3ceb7ff20122d6fbd34114c4cd63b405\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\3ceb7ff20122d6fbd34114c4cd63b405\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\ea5a79c67f9a12d26dcf9fd72342a4ff\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\ea5a79c67f9a12d26dcf9fd72342a4ff\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ef58d30bb24e761729aa113d96315288\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ef58d30bb24e761729aa113d96315288\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\4ac2d855c619d63e2ca16fc2f75de648\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\4ac2d855c619d63e2ca16fc2f75de648\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\4e8d993a3c65e256f62f03029d9579b4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\4e8d993a3c65e256f62f03029d9579b4\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:27:9-39
+	android:allowBackup
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:29:9-40
+activity#com.kutsubogeras.shifts.MainActivity
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:30:9-39:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:35:17-68
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:37:27-74
+activity#com.kutsubogeras.shifts.insert.EmployeeInsertion
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:40:9-50:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:42:13-73
+	android:windowSoftInputMode
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:44:13-65
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:41:13-53
+activity#com.kutsubogeras.shifts.insert.OneShiftInsertion
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:51:9-55:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:53:13-71
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:52:13-53
+activity#com.kutsubogeras.shifts.insert.WeekShiftInsertion
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:56:9-60:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:58:13-71
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:57:13-54
+activity#com.kutsubogeras.shifts.insert.TwoWeekShiftInsertion
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:61:9-64:20
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:63:13-71
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:62:13-57
+activity#com.kutsubogeras.shifts.ofwork.OffWorkManager
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:65:9-69:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:67:13-70
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:66:13-50
+activity#com.kutsubogeras.shifts.insert.OfWorkInsertion
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:70:9-74:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:72:13-69
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:71:13-51
+activity#com.kutsubogeras.shifts.help.DiaryView
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:75:9-79:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:78:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:77:13-62
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:76:13-43
+activity#com.kutsubogeras.shifts.queries.QueryDatesManager
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:80:9-84:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:83:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:82:13-71
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:81:13-54
+activity#com.kutsubogeras.shifts.queries.DisplayShift
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:85:9-89:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:88:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:87:13-65
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:86:13-49
+activity#com.kutsubogeras.shifts.help.ShowAppInfo
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:90:9-94:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:93:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:92:13-65
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:91:13-45
+activity#com.kutsubogeras.shifts.queries.DisplayExtraRepo
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:95:9-99:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:98:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:97:13-70
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:96:13-53
+activity#com.kutsubogeras.shifts.queries.ShowWorkedHolidays
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:100:9-104:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:103:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:102:13-72
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:101:13-55
+activity#com.kutsubogeras.shifts.queries.ShowSumResults
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:105:9-109:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:108:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:107:13-68
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:106:13-51
+activity#com.kutsubogeras.shifts.queries.ShowMultiDaysRepo
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:110:9-114:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:113:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:112:13-71
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:111:13-54
+activity#com.kutsubogeras.shifts.help.DeveloperInfo
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:115:9-119:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:118:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:117:13-66
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:116:13-47
+activity#com.kutsubogeras.shifts.help.DisplayWebInfo
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:120:9-124:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:123:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:122:13-68
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:121:13-48
+activity#com.kutsubogeras.shifts.queries.DisplayOfWorkYear
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:125:9-129:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:128:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:127:13-72
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:126:13-54
+activity#com.kutsubogeras.shifts.update.UpdateEmployee
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:130:9-140:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:133:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:132:13-67
+	android:windowSoftInputMode
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:134:13-65
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:131:13-50
+activity#com.kutsubogeras.shifts.update.UpdateShift
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:141:9-145:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:144:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:143:13-64
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:142:13-47
+activity#com.kutsubogeras.shifts.update.UpdateOfWork
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:146:9-150:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:149:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:148:13-66
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:147:13-48
+activity#com.kutsubogeras.shifts.queries.DisplayIntervalOfShifts
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:151:9-155:20
+	android:screenOrientation
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:154:13-49
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:153:13-78
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:152:13-60
+activity#com.kutsubogeras.shifts.settings.SettingsShifts
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:156:9-159:20
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:158:13-67
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:157:13-52
+activity#com.kutsubogeras.shifts.queries.YearOfWorks
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:160:9-163:20
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:162:13-65
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:161:13-48
+activity#com.kutsubogeras.shifts.ShiftSettings
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:164:9-171:20
+	android:parentActivityName
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:167:13-55
+	android:label
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:166:13-66
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:165:13-42
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:168:13-170:71
+	android:value
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:170:17-69
+	android:name
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml:169:17-63
+uses-sdk
+INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\bd53acb2c8eca92763b3f5c63954bfe2\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\bd53acb2c8eca92763b3f5c63954bfe2\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\fe093d46946fb710432f6e49614631e2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\fe093d46946fb710432f6e49614631e2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\3ceb7ff20122d6fbd34114c4cd63b405\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\3ceb7ff20122d6fbd34114c4cd63b405\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\ea5a79c67f9a12d26dcf9fd72342a4ff\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\ea5a79c67f9a12d26dcf9fd72342a4ff\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ef58d30bb24e761729aa113d96315288\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\ef58d30bb24e761729aa113d96315288\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\4ac2d855c619d63e2ca16fc2f75de648\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\4ac2d855c619d63e2ca16fc2f75de648\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\4e8d993a3c65e256f62f03029d9579b4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\4e8d993a3c65e256f62f03029d9579b4\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.2.1] C:\Users\kutsu\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\fe093d46946fb710432f6e49614631e2\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kutsu\AndroidStudioProjects\Shifts\app\src\main\AndroidManifest.xml

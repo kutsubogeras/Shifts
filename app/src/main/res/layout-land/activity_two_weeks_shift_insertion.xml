@@ -1,0 +1,1379 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container_query_dates_manager"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaper_galaxy"
+    android:paddingLeft="1dp"
+    tools:ignore="MergeRootFrame,UselessParent" >
+
+    <LinearLayout
+        android:id="@+id/LinearLayout_ShiftRows_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@color/Color_deep_skyblue"
+        android:minHeight="45dp"
+        android:orientation="horizontal"
+        tools:ignore="DuplicateIds" >
+
+        <TextView
+            android:id="@+id/ΤextView1_ListDate"
+            style="@style/LabelAddShiftsRoundedCornerStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="3dp"
+            android:gravity="center_vertical|center_horizontal"
+            android:minHeight="45dp"
+            android:minWidth="120dp"
+            android:text="Ημερομηνία"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/TextView2_Day"
+            style="@style/LabelAddShiftsRoundedCornerStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="2dp"
+            android:gravity="center_vertical|center_horizontal"
+            android:minHeight="45dp"
+            android:minWidth="110dp"
+            android:text="@string/ShiftWeekDay"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/ΤextView3_ListShiftValue"
+            style="@style/LabelAddShiftsRoundedCornerStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="2dp"
+            android:gravity="center_vertical|center_horizontal"
+            android:minHeight="45dp"
+            android:minWidth="120dp"
+            android:text="@string/ShiftCurValue"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/TextView4_Sunday"
+            style="@style/LabelAddShiftsRoundedCornerStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="2dp"
+            android:gravity="center_vertical|center_horizontal"
+            android:lines="1"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:maxLines="1"
+            android:minHeight="45dp"
+            android:minWidth="100dp"
+            android:paddingLeft="1dp"
+            android:text="Κυριακή"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/ΤextView2_ListWeekday"
+            style="@style/LabelAddShiftsRoundedCornerStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="1dp"
+            android:gravity="center_vertical|center_horizontal"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:maxLines="1"
+            android:minHeight="45dp"
+            android:minLines="1"
+            android:minWidth="100dp"
+            android:text="@string/ShiftHoliday"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="60dp"
+        android:layout_marginTop="48dp" >
+
+        <LinearLayout
+            android:id="@+id/LinearLayout_ShiftRows_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:ignore="DuplicateIds" >
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_01"
+                style="@style/MyLayoutForShiftFormStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/editTextShiftDate_1"
+                    style="@style/TextFieldFirstDateAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:focusable="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:inputType="date"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="118dp"
+                    android:text="Πάτησε Εδώ"
+                    android:textColor="@color/Color_Orange"
+                    android:textSize="13sp"
+                    android:textStyle="bold"
+                    tools:ignore="HardcodedText" >
+
+                    <requestFocus />
+                </EditText>
+
+                <EditText
+                    android:id="@+id/editTextShiftWeekDay_1"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="108dp"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/SpinnerShiftValue_1"
+                    style="@style/MyRoundedSpinnerStyle"
+                    android:layout_width="115dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="5dp"
+                    android:gravity="center_vertical"
+                    android:minWidth="80dp"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp"
+                    android:prompt="@string/Spinner_ShiftPrompt"
+                    tools:ignore="InefficientWeight" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftSunday_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left|center_vertical"
+                    android:layout_marginLeft="35dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:textColor="@color/Color_Orange" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftHoliday_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|end"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="4dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:textColor="@color/Color_Red" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_02"
+                style="@style/MyLayoutForShiftFormStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/editTextShiftDate_2"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:inputType="date"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="118dp"
+                    android:textColor="@color/Color_Orange"
+                    android:textSize="13sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextShiftWeekDay_2"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="108dp"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/SpinnerShiftValue_2"
+                    style="@style/MyRoundedSpinnerStyle"
+                    android:layout_width="115dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="0.00"
+                    android:gravity="center_vertical"
+                    android:minWidth="80dp"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp"
+                    android:prompt="@string/Spinner_ShiftPrompt"
+                    tools:ignore="InefficientWeight" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftSunday_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left|center_vertical"
+                    android:layout_marginLeft="35dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Orange" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftHoliday_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|end"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="4dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Red" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_03"
+                style="@style/MyLayoutForShiftFormStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/editTextShiftDate_3"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:inputType="date"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="118dp"
+                    android:textColor="@color/Color_Orange"
+                    android:textSize="13sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextShiftWeekDay_3"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="108dp"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/SpinnerShiftValue_3"
+                    style="@style/MyRoundedSpinnerStyle"
+                    android:layout_width="115dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="0.00"
+                    android:gravity="center_vertical"
+                    android:minWidth="80dp"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp"
+                    android:prompt="@string/Spinner_ShiftPrompt"
+                    tools:ignore="InefficientWeight" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftSunday_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left|center_vertical"
+                    android:layout_marginLeft="35dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Orange" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftHoliday_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|end"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="4dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Red" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_04"
+                style="@style/MyLayoutForShiftFormStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/editTextShiftDate_4"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:inputType="date"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="118dp"
+                    android:textColor="@color/Color_Orange"
+                    android:textSize="13sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextShiftWeekDay_4"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="108dp"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/SpinnerShiftValue_4"
+                    style="@style/MyRoundedSpinnerStyle"
+                    android:layout_width="115dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="0.00"
+                    android:gravity="center_vertical"
+                    android:minWidth="80dp"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp"
+                    android:prompt="@string/Spinner_ShiftPrompt"
+                    tools:ignore="InefficientWeight" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftSunday_4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left|center_vertical"
+                    android:layout_marginLeft="35dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Orange" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftHoliday_4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|end"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="4dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Red" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_05"
+                style="@style/MyLayoutForShiftFormStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/editTextShiftDate_5"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:inputType="date"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="118dp"
+                    android:textColor="@color/Color_Orange"
+                    android:textSize="13sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextShiftWeekDay_5"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="108dp"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/SpinnerShiftValue_5"
+                    style="@style/MyRoundedSpinnerStyle"
+                    android:layout_width="115dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="0.00"
+                    android:gravity="center_vertical"
+                    android:minWidth="80dp"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp"
+                    android:prompt="@string/Spinner_ShiftPrompt"
+                    tools:ignore="InefficientWeight" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftSunday_5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left|center_vertical"
+                    android:layout_marginLeft="35dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Orange" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftHoliday_5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|end"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="4dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Red" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_Item_results_holiday"
+                style="@style/MyLayoutForShiftFormStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/editTextShiftDate_6"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:inputType="date"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="118dp"
+                    android:textColor="@color/Color_Orange"
+                    android:textSize="13sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextShiftWeekDay_6"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="108dp"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/SpinnerShiftValue_6"
+                    style="@style/MyRoundedSpinnerStyle"
+                    android:layout_width="115dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="0.00"
+                    android:gravity="center_vertical"
+                    android:minWidth="80dp"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp"
+                    android:prompt="@string/Spinner_ShiftPrompt"
+                    tools:ignore="InefficientWeight" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftSunday_6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left|center_vertical"
+                    android:layout_marginLeft="35dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Orange" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftHoliday_6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|end"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="4dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Red" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_07"
+                style="@style/MyLayoutForShiftFormStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <EditText
+                    android:id="@+id/editTextShiftDate_7"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:inputType="date"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="118dp"
+                    android:textColor="@color/Color_Orange"
+                    android:textSize="13sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextShiftWeekDay_7"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="108dp"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/Spinner_ShiftValue_7"
+                    style="@style/MyRoundedSpinnerStyle"
+                    android:layout_width="115dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="0.00"
+                    android:gravity="center_vertical"
+                    android:minWidth="80dp"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp"
+                    android:prompt="@string/Spinner_ShiftPrompt"
+                    tools:ignore="InefficientWeight" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftSunday_7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="35dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Orange" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftHoliday_7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="4dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Red" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_OfWorkInsert_Buttons"
+                style="@style/MyLayoutForShiftFormStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <EditText
+                    android:id="@+id/editTextShiftDate_8"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:inputType="date"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="118dp"
+                    android:textColor="@color/Color_Orange"
+                    android:textSize="13sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextShiftWeekDay_8"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="108dp"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/SpinnerShiftValue_8"
+                    style="@style/MyRoundedSpinnerStyle"
+                    android:layout_width="115dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="0.00"
+                    android:gravity="center_vertical"
+                    android:minWidth="80dp"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp"
+                    android:prompt="@string/Spinner_ShiftPrompt"
+                    tools:ignore="InefficientWeight" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftSunday_8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="35dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:textColor="@color/Color_Orange" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftHoliday_8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="4dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Red" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout09"
+                style="@style/MyLayoutForShiftFormStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <EditText
+                    android:id="@+id/editTextShiftDate_9"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:inputType="date"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="118dp"
+                    android:textColor="@color/Color_Orange"
+                    android:textSize="13sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextShiftWeekDay_9"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="108dp"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/SpinnerShiftValue_9"
+                    style="@style/MyRoundedSpinnerStyle"
+                    android:layout_width="115dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="0.00"
+                    android:gravity="center_vertical"
+                    android:minWidth="80dp"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp"
+                    android:prompt="@string/Spinner_ShiftPrompt"
+                    tools:ignore="InefficientWeight" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftSunday_9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="35dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Orange" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftHoliday_9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="4dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Red" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout10"
+                style="@style/MyLayoutForShiftFormStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="5dp" >
+
+                <EditText
+                    android:id="@+id/editTextShiftDate_10"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:inputType="date"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="118dp"
+                    android:textColor="@color/Color_Orange"
+                    android:textSize="13sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextShiftWeekDay_10"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="108dp"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/SpinnerShiftValue_10"
+                    style="@style/MyRoundedSpinnerStyle"
+                    android:layout_width="115dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="0.00"
+                    android:gravity="center_vertical"
+                    android:minWidth="80dp"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp"
+                    android:prompt="@string/Spinner_ShiftPrompt"
+                    tools:ignore="InefficientWeight" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftSunday_10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="35dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Orange" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftHoliday_10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="4dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Red" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout11"
+                style="@style/MyLayoutForShiftFormStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <EditText
+                    android:id="@+id/editTextShiftDate_11"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:inputType="date"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="118dp"
+                    android:textColor="@color/Color_Orange"
+                    android:textSize="13sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextShiftWeekDay_11"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="108dp"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/SpinnerShiftValue_11"
+                    style="@style/MyRoundedSpinnerStyle"
+                    android:layout_width="115dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="0.00"
+                    android:gravity="center_vertical"
+                    android:minWidth="80dp"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp"
+                    android:prompt="@string/Spinner_ShiftPrompt"
+                    tools:ignore="InefficientWeight" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftSunday_11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="35dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Orange" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftHoliday_11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="4dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Red" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout_OfWorkCategoryItem_Days"
+                style="@style/MyLayoutForShiftFormStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <EditText
+                    android:id="@+id/editTextShiftDate_12"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:inputType="date"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="118dp"
+                    android:textColor="@color/Color_Orange"
+                    android:textSize="13sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextShiftWeekDay_12"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="108dp"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/SpinnerShiftValue_12"
+                    style="@style/MyRoundedSpinnerStyle"
+                    android:layout_width="115dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="0.00"
+                    android:gravity="center_vertical"
+                    android:minWidth="80dp"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp"
+                    android:prompt="@string/Spinner_ShiftPrompt"
+                    tools:ignore="InefficientWeight,TooManyViews" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftSunday_12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="35dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Orange" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftHoliday_12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="4dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:lines="1"
+                    android:textColor="@color/Color_Red" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout13"
+                style="@style/MyLayoutForShiftFormStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <EditText
+                    android:id="@+id/editTextShiftDate_13"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:inputType="date"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="118dp"
+                    android:textColor="@color/Color_Orange"
+                    android:textSize="13sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextShiftWeekDay_13"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="108dp"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/SpinnerShiftValue_13"
+                    style="@style/MyRoundedSpinnerStyle"
+                    android:layout_width="115dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="0.00"
+                    android:gravity="center_vertical"
+                    android:minWidth="80dp"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp"
+                    android:prompt="@string/Spinner_ShiftPrompt"
+                    tools:ignore="InefficientWeight" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftSunday_13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="35dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:textColor="@color/Color_Orange" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftHoliday_13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="4dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:textColor="@color/Color_Red" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayout14"
+                style="@style/MyLayoutForShiftFormStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <EditText
+                    android:id="@+id/editTextShiftDate_14"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:inputType="date"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="118dp"
+                    android:textColor="@color/Color_Orange"
+                    android:textSize="13sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextShiftWeekDay_14"
+                    style="@style/TextFieldAddShiftsFormStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:minWidth="108dp"
+                    android:textColor="@color/Color_blue"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/SpinnerShiftValue_14"
+                    style="@style/MyRoundedSpinnerStyle"
+                    android:layout_width="115dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="0.00"
+                    android:gravity="center_vertical"
+                    android:minWidth="80dp"
+                    android:paddingBottom="1dp"
+                    android:paddingRight="1dp"
+                    android:prompt="@string/Spinner_ShiftPrompt"
+                    tools:ignore="InefficientWeight" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftSunday_14"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="35dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:textColor="@color/Color_Orange" />
+
+                <CheckBox
+                    android:id="@+id/CheckBoxShiftHoliday_14"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="4dp"
+                    android:background="@color/Color_White"
+                    android:clickable="false"
+                    android:ellipsize="marquee"
+                    android:gravity="left|center_vertical"
+                    android:textColor="@color/Color_Red" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout_OKButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginBottom="1dp"
+        android:background="@color/Color_Black"
+        android:gravity="bottom|center"
+        android:minHeight="55dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/buttonWeekShiftAddDate"
+            style="@style/MyShiftAddDatesButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/shift_add_dates_button_background"
+            android:minHeight="50dp"
+            android:minWidth="80dp"
+            android:text="Ανάθεση"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:ignore="UselessLeaf" >
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/ButtonEnterShifts_OK"
+            style="@style/MyShiftOKButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal|center"
+            android:background="@drawable/shift_ok_button_background"
+            android:gravity="center_vertical|center_horizontal"
+            android:minHeight="50dp"
+            android:minWidth="80dp"
+            android:text="OK"
+            android:textColor="@color/Color_Black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText,ButtonOrder" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            tools:ignore="UselessLeaf" >
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/buttonWeekShiftReset"
+            style="@style/MyShiftResetButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical|end"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/shift_reset_button_background"
+            android:minHeight="50dp"
+            android:minWidth="85dp"
+            android:text="Διαγραφή"
+            android:textColor="@color/Color_Black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+
+</FrameLayout>

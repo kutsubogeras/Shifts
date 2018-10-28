@@ -1,0 +1,205 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/FrameLayout_ShowHolidays"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaper_galaxy"
+    android:paddingBottom="1dp"
+    android:paddingLeft="1dp"
+    android:paddingRight="1dp"
+    android:paddingTop="1dp"
+    tools:context="com.kutsubogeras.shifts.ShowWorkedHolidays$PlaceholderFragment" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/LinearLayout_ShowHolidays_Line1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView_ShowHolidays_Title"
+                style="@style/BackgroundButtonsStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|center_horizontal"
+                android:minHeight="50dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textSize="24sp"
+                android:textStyle="italic" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayout_ShowHolidays_Line2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp" >
+
+            <TextView
+                android:id="@+id/textView_SumResults_SumShifts"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:minHeight="40dp"
+                android:minWidth="150dp"
+                android:paddingLeft="5dp"
+                android:text="@string/Start_Date"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+
+            <TextView
+                android:id="@+id/textView_ShowHolidays_DateStart"
+                style="@style/TextFieldStyleForQueryDates"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:minHeight="40dp"
+                android:minWidth="115dp"
+                android:text="@string/button_presh_here"
+                android:textColor="@color/Color_blue"
+                android:textSize="18sp"
+                tools:ignore="HardcodedText" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayout_ShowHolidays_Line3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_SumResults_SumMorning"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:minHeight="40dp"
+                android:minWidth="150dp"
+                android:paddingLeft="5dp"
+                android:text="@string/End_Date"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView_ShowHolidays_DateFinish"
+                style="@style/TextFieldStyleForQueryDates"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:minHeight="40dp"
+                android:minWidth="115dp"
+                android:text="@string/button_presh_here"
+                android:textColor="@color/Color_Orange"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayout_ShowHolidays_Line4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_ofWork_TypeOfWork"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:minHeight="40dp"
+                android:minWidth="150dp"
+                android:paddingLeft="5dp"
+                android:text="@string/label_total_shifts"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView_ShowHolidays_Results"
+                style="@style/TextFieldForShowShiftsStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:minHeight="40dp"
+                android:minWidth="115dp"
+                android:textColor="@color/Color_dark_blue"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/listView_ShowHolidays_List"
+            style="@style/ListShiftsStyleWithRedStroke"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="62dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp" >
+
+        </ListView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/BackgroundButtonsStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center|end"
+        android:minHeight="55dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/button_ShowHolidays_Back"
+            style="@style/MyShiftAddDatesButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/shift_add_dates_button_background"
+            android:minWidth="95dp"
+            android:text="@string/Button_Back" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/button_ShowHolidays_OK"
+            style="@style/MyShiftOKButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/shift_ok_button_background"
+            android:minWidth="90dp"
+            android:text="@string/Button_OK" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/button_ShowHolidays_Reset"
+            style="@style/MyShiftResetButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/shift_reset_button_background"
+            android:minWidth="90dp"
+            android:text="@string/Button_Delete" />
+
+    </LinearLayout>
+
+</FrameLayout>

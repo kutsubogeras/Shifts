@@ -1,0 +1,305 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/FrameLayout_one_shift"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaper_galaxy"
+    tools:context="com.kutsubogeras.shifts.insert.OneShiftInsertion"
+    tools:ignore="MergeRootFrame" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical"
+        tools:ignore="UselessParent" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp" >
+
+            <TextView
+                android:id="@+id/section_label3"
+                style="@style/LabelAddShiftsRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:minHeight="45dp"
+                android:minWidth="120dp"
+                android:paddingLeft="10dp"
+                android:text="@string/label_one_shift_date"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
+
+            <EditText
+                android:id="@+id/editTextOneShiftDate"
+                style="@style/TextFieldStyleForQueryDates"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxWidth="120dp"
+                android:minHeight="45dp"
+                android:minWidth="120dp"
+                android:text="@string/button_presh_here"
+                android:textColor="@color/Color_blue"
+                android:textSize="18sp" >
+
+                <requestFocus />
+            </EditText>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_OfWork_TotalDays"
+                style="@style/LabelAddShiftsRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:minHeight="45dp"
+                android:minWidth="120dp"
+                android:paddingLeft="10dp"
+                android:text="@string/label_one_shift_day"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
+
+            <EditText
+                android:id="@+id/editTextOneShiftWeekday"
+                style="@style/TextFieldAddShiftsFormStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxWidth="120dp"
+                android:minHeight="45dp"
+                android:minWidth="120dp"
+                android:textColor="@color/Color_blue"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_ExtraRepo_SumTake"
+                style="@style/LabelAddShiftsRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:minHeight="45dp"
+                android:minWidth="120dp"
+                android:paddingLeft="10dp"
+                android:text="@string/label_one_shift_shift"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
+
+            <Spinner
+                android:id="@+id/spinnerOneShiftValues"
+                style="@style/MyRoundedSpinnerStyle"
+                android:layout_width="120dp"
+                android:layout_height="47dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_OfWork_DaysHaveTake"
+                style="@style/LabelAddShiftsRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:minHeight="45dp"
+                android:minWidth="120dp"
+                android:paddingLeft="10dp"
+                android:text="@string/label_one_shift_sunday"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
+
+            <CheckBox
+                android:id="@+id/checkBoxOneShiftSunday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="55dp"
+                android:background="@color/Color_Gray"
+                android:clickable="false"
+                android:focusable="false"
+                android:minWidth="30dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_ofWork_duration"
+                style="@style/LabelAddShiftsRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:minHeight="45dp"
+                android:minWidth="120dp"
+                android:paddingLeft="10dp"
+                android:text="@string/label_one_shift_holiday"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
+
+            <CheckBox
+                android:id="@+id/checkBoxOneShiftHoliday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="55dp"
+                android:background="@color/Color_Gray"
+                android:clickable="false"
+                android:focusable="false"
+                android:minWidth="30dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_OfWork_Restdays"
+                style="@style/LabelAddShiftsRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:minHeight="45dp"
+                android:minWidth="120dp"
+                android:paddingLeft="10dp"
+                android:text="@string/label_one_shift_coments"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
+
+            <EditText
+                android:id="@+id/editTextOneShiftComens"
+                style="@style/TextFieldAddShiftsFormStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:lines="1"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:maxHeight="45dp"
+                android:maxLines="1"
+                android:maxWidth="120dp"
+                android:minHeight="45dp"
+                android:minWidth="120dp"
+                android:textColor="@color/Color_Orange"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/BackgroundButtonsStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginTop="150dp"
+        android:gravity="bottom"
+        android:minHeight="55dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/buttonOneShiftBack"
+            style="@style/MyShiftAddDatesButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/shift_add_dates_button_background"
+            android:minWidth="95dp"
+            android:text="@string/Button_Back"
+            android:textColor="@color/Color_Black"
+            android:textSize="18sp"
+            tools:ignore="HardcodedText" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/buttonOneShift_OK"
+            style="@style/MyShiftOKButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center"
+            android:background="@drawable/shift_ok_button_background"
+            android:minWidth="80dp"
+            android:text="@string/Button_OK"
+            android:textColor="@color/Color_Black"
+            android:textSize="18sp"
+            tools:ignore="HardcodedText,ButtonOrder" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/buttonOneShiftReset"
+            style="@style/MyShiftResetButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical|end"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/shift_reset_button_background"
+            android:minWidth="87dp"
+            android:text="@string/Button_Delete"
+            android:textColor="@color/Color_Black"
+            android:textSize="18sp"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+
+</FrameLayout>
+

@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_dialog_confirm_password.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_dialog_confirm_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_one_shift_insertion.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_one_shift_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_selection_of_date.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\dialog_selection_of_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_show_report_of_repo.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_show_report_of_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_show_worked_holidays.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_show_worked_holidays.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_navigation_drawer.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_developer_info.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_developer_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_item_of_ofwork_list.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_item_of_ofwork_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_week_shift_insertion.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_week_shift_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_diary_view.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_diary_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_show_worked_holidays.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_show_worked_holidays.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_query_dates_manager.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_query_dates_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_item_of_results_list.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_item_of_results_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_display_interval_of_shifts.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_display_interval_of_shifts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_display_shift.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_display_shift.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_off_work_manager.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_off_work_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_employee_update.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_employee_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_show_employee.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_show_employee.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_developer_info.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_developer_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_settings_shifts_button.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_settings_shifts_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_display_of_works.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_display_of_works.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_display_web_info.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_display_web_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_display_extra_repo.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_display_extra_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_display_interval_of_shifts.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_display_interval_of_shifts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_initial_page.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_initial_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_item_of_report_repo.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_item_of_report_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_year_of_works.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_year_of_works.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_query_dates_manager.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_query_dates_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_display_of_work_year.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_display_of_work_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_year_of_works.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_year_of_works.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_one_shift_insertion.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_one_shift_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_show_appl_info.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_show_appl_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_display_shift.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_display_shift.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_show_sum_results.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_show_sum_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_display_queries_list.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_display_queries_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_show_sum_results.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_show_sum_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_dialog_time_items.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_dialog_time_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_of_work_insertion.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_of_work_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_dialog_password.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_dialog_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_two_weeks_shift_insertion.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_two_weeks_shift_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_of_work_update.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_of_work_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_display_last_shifts.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_display_last_shifts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_item_list_offworks_year.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_item_list_offworks_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_employee_insertion.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_employee_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_display_extra_repo.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_display_extra_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_item_of_list_shifts.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_item_of_list_shifts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_display_of_work_year.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_display_of_work_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_item_of_queries_list.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_item_of_queries_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_show_report_of_repo.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_show_report_of_repo.xml"
+    }
+]

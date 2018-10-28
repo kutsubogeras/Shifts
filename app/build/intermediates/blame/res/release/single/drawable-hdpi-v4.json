@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\index_gr.jpg",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\index_gr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\index_en.jpg",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\index_en.jpg"
+    }
+]

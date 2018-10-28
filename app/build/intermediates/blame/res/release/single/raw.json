@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\raw\\ultimate_weapon.mp3",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\raw\\ultimate_weapon.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\raw\\hooting_bird.mp3",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\raw\\hooting_bird.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\raw\\seabird_sounds.mp3",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\raw\\seabird_sounds.mp3"
+    }
+]

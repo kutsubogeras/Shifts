@@ -1,0 +1,1214 @@
+[
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user_icon_64_64.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\user_icon_64_64.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_14.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_14.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_unpressed.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\spinner_unpressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_59.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_59.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rotate_image_background.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\rotate_image_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_background_blue_for_shift_list_value.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_background_blue_for_shift_list_value.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_display_of_work_year.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\display_of_work_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_show_report_of_repo.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_show_report_of_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shift_focus_ok_button.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\shift_focus_ok_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_with_red_stroke.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_with_red_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_employee_image.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\rounded_corners_employee_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_rounded_corners_stroke.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_rounded_corners_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add_32_32.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\add_32_32.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_adeia_pressed_en.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\adeia_pressed_en.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima17.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima17.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_21.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_21.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_labels_shift_insert_with_rounded_corners.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\labels_shift_insert_with_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_6.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_6.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_developer_info.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_developer_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_blue_nice.jpg.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_blue_nice.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_data_sync.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_background_for_query_dates.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_background_for_query_dates.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_query_dates_manager.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_query_dates_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_5.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_5.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_30.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_30.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shift_button_background.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\shift_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_notification.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima16.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima16.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paid_leave_button_background_en.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\paid_leave_button_background_en.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_year_of_works.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_year_of_works.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_20.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_20.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_16.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_16.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_diary_view.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\activity_diary_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_31.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_31.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sync_black_24dp.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_one_shift_insertion.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_one_shift_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_57.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_57.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima19.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima19.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_drawer_shadow.9.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_clock.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_show_sum_results.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_show_sum_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_23.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_23.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_item_of_ofwork_list.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_item_of_ofwork_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_two_weeks_shift_insertion.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout-land\\activity_two_weeks_shift_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_item_of_list_shifts.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_item_of_list_shifts.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendar_unfocus_cancel_button.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\calendar_unfocus_cancel_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_employee_update.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_employee_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_13.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_13.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_of_work_update.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\of_work_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_background_green_for_shift_list_value.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_background_green_for_shift_list_value.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima14.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima14.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_3.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_3.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima_star.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima_star.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_general.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_rounded_corners.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\button_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user_icon_128_128.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\user_icon_128_128.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima1.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima1.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_employee_insertion.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_employee_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima4.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima4.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_9.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_9.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendar_ok_button_background.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\calendar_ok_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_label_with_green_stroke.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\label_with_green_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_33.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_33.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_shift.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\shift.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_display_extra_repo.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_display_extra_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_password.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\xml\\pref_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_25.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_25.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_developer_info.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_developer_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_odd_row_background.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\list_odd_row_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendar_unfocus_ok_button.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\calendar_unfocus_ok_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_right_pointer.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\right_pointer.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_18.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_18.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_item_of_report_repo.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_item_of_report_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_calgulate.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\calgulate.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_notification2.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\xml\\pref_notification2.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_40.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_40.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_query_dates_manager.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_query_dates_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_two_weeks_shift_insertion.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_two_weeks_shift_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_search_view.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\rounded_corners_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_two_weeks_shift_insertion.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\two_weeks_shift_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_week_shift_insertion.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\week_shift_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_vardia_en.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\vardia_en.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_left_pointer.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\left_pointer.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_with_rounded_corners.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\layout_with_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shift_reset_button_background.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\shift_reset_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_button_background.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\user_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_off_work_manager.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_off_work_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_week_shift_insertion.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_week_shift_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_drawer_shadow.9.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_wallpaper_moon_24.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\wallpaper_moon_24.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendar_cancel_button_background.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\calendar_cancel_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shift_focus_add_dates_button.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\shift_focus_add_dates_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_11.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_11.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_17.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_17.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display_extra_repo.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_display_extra_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_calendar.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xhdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_vardia_pressed.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\vardia_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_24.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_24.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_for_list_white_stroke.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\background_for_list_white_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_display_interval_of_shifts.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\display_interval_of_shifts.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_display_shift.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\display_shift.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_developer_info.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\developer_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_vardia_pressed_en.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\vardia_pressed_en.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima15.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima15.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_display_shift.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_display_shift.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_12.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_12.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_vardia.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\vardia.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_blue_nice_2.jpg.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_blue_nice_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\raw_hooting_bird.mp3.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\raw\\hooting_bird.mp3"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_green_button.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\rounded_corners_green_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_4.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_4.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_diary_view.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_diary_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_53.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_53.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_year_of_works.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\year_of_works.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_show_sum_results.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\show_sum_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info_black_24dp.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_with_yellow_stroke.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_with_yellow_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_info_icon.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\info_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_32.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_32.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima5.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima5.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_adeia_en.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\adeia_en.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_58.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_58.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display_web_info.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_display_web_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display_interval_of_shifts.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_display_interval_of_shifts.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_45.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_45.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_link_icon.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\link_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_paid_leave_pressed.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\paid_leave_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_global.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\global.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_year_of_works.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_year_of_works.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_query_dates_manager.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\query_dates_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show_worked_holidays.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_show_worked_holidays.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rotate2_pressed.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\rotate2_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_for_list_red_stroke.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\background_for_list_red_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_38.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_38.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_adeia.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\adeia.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_60.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_60.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_shift_form_rounded_corners.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\layout_shift_form_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_light_blue_720_1280.jpg.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_light_blue_720_1280.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_star.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_star.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_index_en.jpg.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\index_en.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings_shifts_button.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_settings_shifts_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_textfield.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\rounded_corners_textfield.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_52.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_52.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dialog_confirm_password.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_dialog_confirm_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_29.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_29.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display_of_work_year.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_display_of_work_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_44.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_44.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_of_work_update.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_of_work_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shift_unfocus_reset_button.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\shift_unfocus_reset_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_item_list_offworks_year.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_item_list_offworks_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima10.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima10.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_general2.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\xml\\pref_general2.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_36.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_36.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rotate_2.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\rotate_2.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_shift_pressed.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\shift_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rotate_unpressed_image.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\rotate_unpressed_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_galaxy.jpg.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_galaxy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selected_item_background.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\selected_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_black_720_1280.jpg.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_black_720_1280.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_layout_for_buttons.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\rounded_corners_layout_for_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima7.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima7.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paid_leave_button_background.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\paid_leave_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shift_unfocus_ok_button.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\shift_unfocus_ok_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_selection_of_date.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\dialog_selection_of_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shift_unfocus_add_dates_button.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\shift_unfocus_add_dates_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_rain.jpg.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_rain.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_index_gr.jpg.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\index_gr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dialog_password.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_dialog_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_wallpaper_moon.jpg.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\wallpaper_moon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show_sum_results.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_show_sum_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_for_buttons_rounded_corners.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\background_for_buttons_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_employee_insertion.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\employee_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_37.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_37.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_check_icon.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\check_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rotate_1.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\rotate_1.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_display_of_work_year.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_display_of_work_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_43.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_43.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima6.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima6.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_yellow_button.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\rounded_corners_yellow_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_of_work_insertion.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\of_work_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_first_date_add_shifts_rounded_corners.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_first_date_add_shifts_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_46.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_46.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_paid_leave.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\paid_leave.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_image_button.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\rounded_corners_image_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_background_yellow_for_shift_list_value.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_background_yellow_for_shift_list_value.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_background.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\xml\\pref_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima9.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima9.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_for_shift_list_item_odd_lines.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\background_for_shift_list_item_odd_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shift_button_background_en.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\shift_button_background_en.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rotate1_pressed.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\rotate1_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_natureu_sun.jpg.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_natureu_sun.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_employee_update.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\employee_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_background.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\spinner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_calendar.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_for_date_pressed.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_for_date_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_39.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_39.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_display_queries_list.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_display_queries_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_34.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_34.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_51.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_51.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_natureu_4.jpg.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_natureu_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_26.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_26.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_headers2.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\xml\\pref_headers2.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\raw_ultimate_weapon.mp3.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\raw\\ultimate_weapon.mp3"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_show_worked_holidays.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\show_worked_holidays.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_19.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_19.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_41.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_41.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendar_focus_cancel_button.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\calendar_focus_cancel_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_54.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_54.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima11.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima11.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_display_extra_repo.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\display_extra_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_light_dark_light.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\rounded_corners_light_dark_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_natureu_3.jpg.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_natureu_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_for_date_unpressed.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_for_date_unpressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_drawer_shadow.9.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_show_shift_in_list.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_show_shift_in_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_display_last_shifts.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_display_last_shifts.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_2.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_2.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_display_of_works.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_display_of_works.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display_shift.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_display_shift.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_add_shifts_rounded_corners.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_add_shifts_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima13.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima13.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_labels_show_worked_rounded_corners.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\labels_show_worked_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_10.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_10.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_55.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_55.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dialog_time_items.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_dialog_time_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_background_for_holiday_list_value.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_background_for_holiday_list_value.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_drawer_shadow.9.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_show_employee.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_show_employee.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corners_layout_for_page_buttons.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\rounded_corners_layout_for_page_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_adeia_pressed.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\adeia_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_headers.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_show_worked_holidays.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_show_worked_holidays.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_47.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_47.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_with_red_stroke_pressed.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_with_red_stroke_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_photo_textfield_pressed.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\photo_textfield_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shift_ok_button_background.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\shift_ok_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_1.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_1.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_calendar.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima3.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima3.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_8.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_8.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_facebook.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_for_search_photo.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\background_for_search_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_49.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_49.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_error_icon.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\error_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_natureu_2.jpg.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_natureu_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rotate_pressed_image.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\rotate_pressed_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_alert.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\alert.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_56.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_56.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_warning.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-hdpi\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shift_focus_reset_button.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\shift_focus_reset_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_initial_page.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_initial_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show_report_of_repo.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_show_report_of_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_27.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_27.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_photo_textfield_unpressed.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\photo_textfield_unpressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallparer_blue_720_1280.jpg.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\wallparer_blue_720_1280.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_one_shift_insertion.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\one_shift_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendar_focus_ok_button.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\calendar_focus_ok_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_for_shift_list_item_even_lines.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\background_for_shift_list_item_even_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show_appl_info.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_show_appl_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_pressed.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\spinner_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_50.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_50.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_background_orange_for_shift_list_value.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_background_orange_for_shift_list_value.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_with_green_stroke.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_with_green_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\raw_seabird_sounds.mp3.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\raw\\seabird_sounds.mp3"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_42.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_42.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield_with_blue_stroke.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\textfield_with_blue_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_item_of_results_list.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_item_of_results_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_one_shift_insertion.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_one_shift_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_paid_leave_manager.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\paid_leave_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_itinerary_button_background.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\itinerary_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_labels_with_rounded_corners.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\labels_with_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_display_web_info.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\display_web_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima12.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima12.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima2.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima2.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_of_work_insertion.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_of_work_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_15.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_15.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallpaper_rain_2.jpg.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\wallpaper_rain_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima20.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima20.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_28.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_28.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shift_add_dates_button_background.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\shift_add_dates_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\menu_show_report_of_repo.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\show_report_of_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_user_icon_128_pressed.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-xxhdpi\\user_icon_128_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_display_interval_of_shifts.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\fragment_display_interval_of_shifts.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_even_row_background.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable\\list_even_row_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima8.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima8.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ima18.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-ldpi\\ima18.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_7.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_7.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_48.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_48.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_35.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_35.png"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_item_of_queries_list.xml.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\layout\\activity_item_of_queries_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_num_22.png.flat",
+        "source": "C:\\Users\\kutsu\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\drawable-mdpi\\num_22.png"
+    }
+]

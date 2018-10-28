@@ -1,0 +1,178 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- Layout style which have Round cornered and with background 3 colors -->
+     <style name="LayoutRoundedCornerStyle">
+        <item name="android:background">@drawable/layout_with_rounded_corners</item>
+    </style>
+     <!-- BackroundLayout Layout Style for shift form which Round cornered 3 colors -->
+    <style name="MyLayoutForShiftFormStyle">
+        <item name="android:background">@drawable/layout_shift_form_rounded_corners</item>
+    </style>   
+    <!-- BackroundLayout style which Round cornered and with background 3 colors -->
+    <style name="MyRoundedLightDarkLightStyle">
+        <item name="android:background">@drawable/rounded_corners_light_dark_light</item>
+    </style> 
+     <!-- Label style with Rounded cornered, background color and stroke Green Color line-->
+    <style name="LabelStyle_WithGreenStroke">
+        <item name="android:background">@drawable/label_with_green_stroke</item>
+    </style>
+    <!-- TextField style which Round cornered and with background color -->
+    <style name="MyRoundedTextField">
+        <item name="android:background">@drawable/rounded_corners_textfield</item>
+    </style>
+    <!-- TextField style which Round cornered and with background color and stroke line-->
+    <style name="TextFieldRoundedStrokeCornersStyle">
+        <item name="android:background">@drawable/textfield_rounded_corners_stroke</item>
+    </style>
+     <!-- TextField style for the first Date editText add shifts which have 
+          Round cornered and with background color and stroke line-->
+    <style name="TextFieldFirstDateAddShiftsFormStyle">
+        <item name="android:background">@drawable/textfield_first_date_add_shifts_rounded_corners</item>
+    </style>
+    <!-- TextField style for add shifts which Round cornered and with background color and stroke line-->
+    <style name="TextFieldAddShiftsFormStyle">
+        <item name="android:background">@drawable/textfield_add_shifts_rounded_corners</item>
+    </style>
+    <!-- TextField style for shift show in list which have 
+           Round cornered and with background color and stroke line-->
+    <style name="TextFieldForShowShiftsStyle">
+        <item name="android:background">@drawable/textfield_show_shift_in_list</item>
+    </style>
+    <!-- TextField style with Rounded cornered, background color and stroke Red Color line-->
+    <style name="TextFieldStyle_WithRedStroke">
+        <item name="android:background">@drawable/textfield_with_red_stroke</item>
+    </style>
+     <!-- TextField style with Rounded cornered, background color and stroke Green Color line-->
+    <style name="TextFieldStyle_WithGreenStroke">
+        <item name="android:background">@drawable/textfield_with_green_stroke</item>
+    </style>
+     <!-- TextField style with Rounded cornered, background color and stroke Blue Color line-->
+    <style name="TextFieldStyle_WithBlueStroke">
+        <item name="android:background">@drawable/textfield_with_blue_stroke</item>
+    </style>
+     <!-- TextField style with Rounded cornered, background color and stroke Yellow Color line-->
+    <style name="TextFieldStyle_WithYeloowStroke">
+        <item name="android:background">@drawable/textfield_with_yellow_stroke</item>
+    </style>
+     <!-- TextField style for Shift List Value with background color and stroke Red Color line-->
+    <style name="TextFieldStyleForShiftListValue">
+        <item name="android:background">@drawable/textfield_background_blue_for_shift_list_value</item>
+    </style>
+     <!-- TextField style for Holiday List Values with background color and stroke Red Color line-->
+    <style name="TextFieldStyleForHolidayListValue">
+        <item name="android:background">@drawable/textfield_background_for_holiday_list_value</item>
+    </style>
+     <!-- TextField style for Query Date with background color and stroke Red Color line-->
+    <style name="TextFieldStyleForQueryDates">
+        <item name="android:background">@drawable/textfield_background_for_query_dates</item>
+    </style>
+     <!-- TextField style for Photo Find with background color and stroke Red Color line-->
+    <style name="TextFieldStyleForPhotoSearch">
+        <item name="android:background">@drawable/background_for_search_photo</item>
+    </style>
+     <!-- Button style which Round cornered and with background color -->
+    <style name="ButtonRoundedCornersStyle">
+        <item name="android:background">@drawable/button_rounded_corners</item>
+    </style> 
+     <!-- BackroundLayout style for buttons which Round cornered 3 colors -->
+    <style name="MyLayoutForButtonsStyle">
+        <item name="android:background">@drawable/rounded_corners_layout_for_buttons</item>
+    </style> 
+     <!-- button style which Round cornered button with background color -->
+    <style name="MyRoundedImageButtonStyle">
+        <item name="android:background">@drawable/rounded_corners_image_button</item>
+    </style> 
+     <!-- BackroundLayout style for buttons which Round cornered 3 colors -->
+    <style name="MyLayoutForPageButtonsStyle">
+        <item name="android:background">@drawable/rounded_corners_layout_for_page_buttons</item>
+    </style>    
+     <!-- Label style which have Round cornered and with background 3 colors -->
+    <style name="LabelRoundedCornerStyle">
+        <item name="android:background">@drawable/labels_with_rounded_corners</item>
+    </style>
+     <!-- Label style for show worked which have Round cornered and with background 3 colors -->
+    <style name="LabelShowWorkedRoundedCornerStyle">
+        <item name="android:background">@drawable/labels_show_worked_rounded_corners</item>
+    </style>
+     <!-- Label style for add shifts which have Round cornered and with background 3 colors -->
+    <style name="LabelAddShiftsRoundedCornerStyle">
+        <item name="android:background">@drawable/labels_shift_insert_with_rounded_corners</item>
+    </style>
+     <!-- Spinner style which Round cornered button with background color -->
+    <style name="MyRoundedSpinnerStyle">
+        <item name="android:background">@drawable/spinner_background</item>
+    </style>
+     <!-- My Custom Calendar View Style -->
+    <style name="CustomCalendarViewStyle" parent="android:Widget.CalendarView">
+        <item name="android:focusedMonthDateColor">@color/Color_blue</item>
+        <item name="android:weekNumberColor">@color/Color_Red</item>
+        <item name="android:weekDayTextAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="android:dateTextAppearance">@style/DateStyle</item>  
+        <item name="android:weekSeparatorLineColor">#00ff00</item>         
+    </style>
+    <style name="DateStyle" parent="android:style/TextAppearance.Medium">
+        <item name="android:textColor">#0000ff</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+       <!-- Green ImageButton style which Round cornered button with Green background color -->
+    <style name="MyGreenRoundedButton">
+        <item name="android:background">@drawable/rounded_corners_green_button</item>
+    </style>
+    <!-- Button style which Round cornered button with Yellow background color -->
+    <style name="MyYellowRoundedButton">
+        <item name="android:background">@drawable/rounded_corners_yellow_button</item>
+    </style>
+     <!-- Button style which Round cornered and with white background color -->
+    <style name="CalendarRoundedButton">
+        <item name="android:background">@drawable/calendar_unfocus_ok_button</item>
+    </style>
+    <!-- Button Style for Shift 'OK' Button which have Round cornered and white background color -->
+    <style name="MyShiftOKButtonStyle">
+        <item name="android:background">@drawable/shift_unfocus_ok_button</item>
+    </style>
+    <!-- Button Style for Shift 'ADD DATES' Button which have Round cornered and white background color -->
+    <style name="MyShiftAddDatesButtonStyle">
+        <item name="android:background">@drawable/shift_unfocus_add_dates_button</item>
+    </style>
+    <!-- Button Style for Shift 'RESET' Button which have Round cornered and white background color -->
+    <style name="MyShiftResetButtonStyle">
+        <item name="android:background">@drawable/shift_unfocus_reset_button</item>
+    </style>
+    <!-- Style for Buttons Background which have Round cornered and with background 3 colors -->
+     <style name="BackgroundButtonsStyle">
+        <item name="android:background">@drawable/background_for_buttons_rounded_corners</item>
+    </style>
+    <!-- Style for List which have Round cornered and stroke White color -->
+     <style name="ListShiftsStyleWithStroke">
+         <item name="android:background">@drawable/background_for_list_white_stroke</item>
+     </style>
+     <!-- Style for List which have Round cornered and stroke Red color -->
+     <style name="ListShiftsStyleWithRedStroke">
+         <item name="android:background">@drawable/background_for_list_red_stroke</item>
+     </style>
+     <!-- Label style which have Round cornered and with background 3 colors -->
+     <style name="SelectedListItemStyle">
+        <item name="android:background">@drawable/selected_item_background</item>
+    </style>
+     <!-- Image style which have Round cornered and background colors -->
+     <style name="RotateImageStyle">
+        <item name="android:background">@drawable/rotate_image_background</item>
+    </style>
+</resources>

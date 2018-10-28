@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="rounded_corner_button">53px</dimen>
+    <dimen name="rounded_corner_image_user">18px</dimen>
+    <dimen name="textField_corner_radius">10px</dimen>
+    <dimen name="searchView_corner_radius">25px</dimen>
+    <dimen name="label_small_corner_radius">5px</dimen>
+    <dimen name="label_corner_radius">10px</dimen>
+    <dimen name="button_corner_radius">10px</dimen>
+    <dimen name="layout_corner_radius">8px</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+
+</resources>

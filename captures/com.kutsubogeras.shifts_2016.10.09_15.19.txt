@@ -1,0 +1,77 @@
+Applications Graphics Acceleration Info:
+Uptime: 107657686 Realtime: 250225524
+
+** Graphics info for pid 24714 [com.kutsubogeras.shifts] **
+
+Stats since: 96290275848358ns
+Total frames rendered: 608
+Janky frames: 57 (9.38%)
+90th percentile: 14ms
+95th percentile: 36ms
+99th percentile: 81ms
+Number Missed Vsync: 34
+Number High input latency: 1
+Number Slow UI thread: 34
+Number Slow bitmap uploads: 11
+Number Slow issue draw commands: 19
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache          1034588 / 52428800
+  LayerCache                  0 / 35651584 (numLayers = 0)
+  Layers total          0 (numLayers = 0)
+  RenderBufferCache           0 /  4194304
+  GradientCache           32768 /  2097152
+  PathCache                   0 / 10485760
+  TessellationCache       12144 /  1048576
+  TextDropShadowCache     35776 /  6291456
+  PatchCache               2560 /   131072
+  FontRenderer 0 A8     1048576 /  1048576
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total  1048576 /  1048576
+Other:
+  FboCache                    0 /       16
+Total memory usage:
+  2166412 bytes, 2.07 MB
+
+Profile data in ms:
+
+	com.kutsubogeras.shifts/com.kutsubogeras.shifts.MainActivity/android.view.ViewRootImpl@fbd01a7 (visibility=0)
+Stats since: 96290275848358ns
+Total frames rendered: 608
+Janky frames: 57 (9.38%)
+90th percentile: 14ms
+95th percentile: 36ms
+99th percentile: 81ms
+Number Missed Vsync: 34
+Number High input latency: 1
+Number Slow UI thread: 34
+Number Slow bitmap uploads: 11
+Number Slow issue draw commands: 19
+
+	PopupWindow:d065ed1/android.view.ViewRootImpl@85799b1 (visibility=0)
+Stats since: 96290275848358ns
+Total frames rendered: 608
+Janky frames: 57 (9.38%)
+90th percentile: 14ms
+95th percentile: 36ms
+99th percentile: 81ms
+Number Missed Vsync: 34
+Number High input latency: 1
+Number Slow UI thread: 34
+Number Slow bitmap uploads: 11
+Number Slow issue draw commands: 19
+
+View hierarchy:
+
+  com.kutsubogeras.shifts/com.kutsubogeras.shifts.MainActivity/android.view.ViewRootImpl@fbd01a7
+  68 views, 61,49 kB of display lists
+
+  PopupWindow:d065ed1/android.view.ViewRootImpl@85799b1
+  31 views, 31,65 kB of display lists
+
+
+Total ViewRootImpl: 2
+Total Views:        99
+Total DisplayList:  93,14 kB
+

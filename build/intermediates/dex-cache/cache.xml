@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_efd33292614ea46f0fb2f924467aeba6666b31a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.1_64c213bd20340a318a834ee4534b68d12ff2568d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.1_7a6b5ab1862338eb21407648721dd3b3519e4dab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.1_c6533bcbd7350f7985130498fd0399d91320b333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_51d293031f8499ef6ece4d416879fa60bb0fe68b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_378e5595fa36caa6db3592fb4a4ec961e200b7c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.1_9f51a467a1b009282ecba1c9ab324fb0b45b5878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.1_29bf8265e75a592f571221f2592ba24a2895cfff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.1_74b11e45ab852db25b5906205122f2ff95383519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_96ff9236a2dfd83b3094e3760776ef88f9bd1962.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="K:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\pre-dexed\release\support-annotations-24.2.1_c64e3d1ce111b7923e0b6c808eacbd511ea0d675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.1_1b91130f7801fcc3298a62583697a880d9eadb5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Thanasis\AndroidStudioProjects\Shifts\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_d004ce417d43d6ab865e4e1518ea97e99bb95ed5.jar" />
+    </item>
+
+</items>

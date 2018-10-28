@@ -1,0 +1,108 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/item_of_results_list_view"
+    style="@style/LabelRoundedCornerStyle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="false"
+    android:minHeight="110dp"
+    android:orientation="vertical"
+    android:paddingTop="2dp" >
+
+    <LinearLayout
+        android:id="@+id/LinearLayout_Row1_Dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:minHeight="40dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/TextView_Label_TimeStart"
+            style="@style/LayoutRoundedCornerStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            android:gravity="center_vertical"
+            android:maxHeight="30dp"
+            android:maxWidth="90dp"
+            android:minHeight="30dp"
+            android:minWidth="90dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="2dp"
+            android:text="@string/label_dialog_start_time"
+            android:textColor="@color/Color_blue" />
+
+        <TextView
+            android:id="@+id/TextView_Time_start_Dialog"
+            style="@style/TextFieldStyle_WithBlueStroke"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center"
+            android:layout_marginLeft="10dp"
+            android:clickable="true"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:gravity="center_vertical|center_horizontal"
+            android:maxHeight="30dp"
+            android:maxWidth="90dp"
+            android:minHeight="30dp"
+            android:minWidth="75dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="2dp"
+            android:textColor="@color/Color_green_blue"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout_Row2_Dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="2dp"
+        android:minHeight="40dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/TextView_Label_TimeFinish"
+            style="@style/LayoutRoundedCornerStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            android:gravity="center_vertical"
+            android:maxHeight="30dp"
+            android:maxWidth="90dp"
+            android:minHeight="30dp"
+            android:minWidth="90dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="2dp"
+            android:text="@string/label_dialog_end_time"
+            android:textColor="@color/Color_Red" />
+
+        <TextView
+            android:id="@+id/TextView_Time_Finish_Dialog"
+            style="@style/TextFieldStyle_WithRedStroke"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center"
+            android:layout_marginLeft="10dp"
+            android:clickable="true"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:gravity="center_vertical|center_horizontal"
+            android:maxHeight="30dp"
+            android:maxWidth="90dp"
+            android:minHeight="30dp"
+            android:minWidth="75dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="2dp"
+            android:textColor="@color/Color_green_blue"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

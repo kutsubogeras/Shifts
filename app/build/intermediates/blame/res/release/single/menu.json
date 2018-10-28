@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\week_shift_insertion.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\week_shift_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\display_interval_of_shifts.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\display_interval_of_shifts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\of_work_insertion.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\of_work_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\display_extra_repo.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\display_extra_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\activity_diary_view.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\activity_diary_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\global.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\global.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\two_weeks_shift_insertion.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\two_weeks_shift_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\show_sum_results.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\show_sum_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\show_report_of_repo.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\show_report_of_repo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\display_of_work_year.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\display_of_work_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\year_of_works.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\year_of_works.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\show_worked_holidays.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\show_worked_holidays.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\display_web_info.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\display_web_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\employee_update.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\employee_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\query_dates_manager.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\query_dates_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\of_work_update.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\of_work_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\display_shift.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\display_shift.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\paid_leave_manager.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\paid_leave_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\employee_insertion.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\employee_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\one_shift_insertion.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\one_shift_insertion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\build\\intermediates\\res\\merged\\release\\menu\\developer_info.xml",
+        "source": "C:\\Users\\Thanasis\\AndroidStudioProjects\\Shifts\\app\\src\\main\\res\\menu\\developer_info.xml"
+    }
+]

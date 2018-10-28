@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout_buttons_main"
+    style="@style/MyGreenRoundedButton"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Color_back_slider"
+    tools:context=".DiaryView" >
+
+    <CalendarView
+        android:id="@+id/calendarView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true" />
+
+        <LinearLayout
+            android:id="@+id/LinearLayout_buttons_diary_layout"
+            style="@style/MyLayoutForPageButtonsStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:gravity="bottom"
+            android:minHeight="70dp" >
+
+            <Button
+                android:id="@+id/button2_cancel"
+                style="@style/MyYellowRoundedButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|center_vertical"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/calendar_cancel_button_background"
+                android:minHeight="60dp"
+                android:minWidth="68dp"
+                android:text="Cancel"
+                android:textColor="@color/Color_Black"
+                android:textColorLink="@color/Color_Red"
+                tools:ignore="HardcodedText" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="left|center_vertical"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_weight="0.46"
+                android:orientation="horizontal" >
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/button1_ok"
+                style="@style/CalendarRoundedButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/calendar_ok_button_background"
+                android:minHeight="60dp"
+                android:minWidth="68dp"
+                android:text="OK"
+                android:textColor="@color/Color_Black"
+                android:textColorLink="@color/Color_blue"
+                tools:ignore="HardcodedText" />
+        </LinearLayout>
+
+</RelativeLayout>

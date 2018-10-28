@@ -1,0 +1,330 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/FrameLayout_container_2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaper_galaxy"
+    tools:context="com.kutsubogeras.shifts.QueryDatesManager$PlaceholderFragment" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/textView_ofWork_Year"
+                style="@style/BackgroundButtonsStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|center_horizontal"
+                android:minHeight="50dp"
+                android:text="Βάρδια Ημερομηνίας"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textSize="24sp"
+                android:textStyle="italic" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp" >
+
+            <TextView
+                android:id="@+id/textView_ItemResult_WeekDay"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:gravity="center_vertical"
+                android:maxWidth="150dp"
+                android:minHeight="40dp"
+                android:minWidth="150dp"
+                android:paddingLeft="10dp"
+                android:text="@string/label_one_shift_date"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/textView_Query1_ShiftDate"
+                style="@style/TextFieldStyleForQueryDates"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxHeight="40dp"
+                android:minHeight="40dp"
+                android:minWidth="120dp"
+                android:text="Πατήστε Εδώ"
+                android:textColor="@color/Color_Red"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_ExtraRepo_SumTake"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:gravity="center_vertical"
+                android:maxWidth="150dp"
+                android:minHeight="40dp"
+                android:minWidth="150dp"
+                android:paddingLeft="10dp"
+                android:text="@string/label_one_shift_day"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/textView_Query1_ShiftWeekday"
+                style="@style/TextFieldForShowShiftsStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxHeight="40dp"
+                android:minHeight="40dp"
+                android:minWidth="120dp"
+                android:textColor="@color/Color_dark_cyan"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/TextView18"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:gravity="center_vertical"
+                android:maxWidth="150dp"
+                android:minHeight="40dp"
+                android:minWidth="150dp"
+                android:paddingLeft="10dp"
+                android:text="@string/label_one_shift_shift"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/textView_Query1_ShiftValue"
+                style="@style/TextFieldStyleForShiftListValue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxHeight="40dp"
+                android:minHeight="40dp"
+                android:minWidth="120dp"
+                android:textColor="@color/Color_blue"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/textView_ofWork_TypeOfWork"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:gravity="center_vertical"
+                android:maxWidth="150dp"
+                android:minHeight="40dp"
+                android:minWidth="150dp"
+                android:paddingLeft="10dp"
+                android:text="@string/label_one_shift_sunday"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <CheckBox
+                android:id="@+id/CheckBox_Query1_Sunday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="55dp"
+                android:background="@color/Color_White"
+                android:clickable="false"
+                android:focusable="false"
+                android:gravity="center_vertical|center"
+                android:maxHeight="25dp"
+                android:maxWidth="32dp"
+                android:minHeight="25dp"
+                android:minWidth="32dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/Color_dark_blue" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/TextView03"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:gravity="center_vertical"
+                android:maxWidth="150dp"
+                android:minHeight="40dp"
+                android:minWidth="150dp"
+                android:paddingLeft="10dp"
+                android:text="@string/label_one_shift_holiday"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <CheckBox
+                android:id="@+id/CheckBox_Query1_Holiday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="55dp"
+                android:background="@color/Color_White"
+                android:clickable="false"
+                android:focusable="false"
+                android:gravity="center_vertical|center"
+                android:maxHeight="25dp"
+                android:maxWidth="32dp"
+                android:minHeight="25dp"
+                android:minWidth="32dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/Color_dark_blue" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/TextView04"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:gravity="center_vertical"
+                android:maxWidth="150dp"
+                android:minHeight="40dp"
+                android:minWidth="150dp"
+                android:paddingLeft="10dp"
+                android:text="@string/label_one_shift_holiday_name"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/textView_Query1_HolidayName"
+                style="@style/TextFieldForShowShiftsStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxHeight="40dp"
+                android:minHeight="40dp"
+                android:minWidth="120dp"
+                android:textColor="@color/Color_Magenta"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/TextView06"
+                style="@style/LabelRoundedCornerStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:gravity="center_vertical"
+                android:maxWidth="150dp"
+                android:minHeight="40dp"
+                android:minWidth="150dp"
+                android:paddingLeft="10dp"
+                android:text="@string/label_one_shift_coments"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/textView_Query1_Comens"
+                style="@style/TextFieldForShowShiftsStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:maxHeight="40dp"
+                android:minHeight="40dp"
+                android:minWidth="120dp"
+                android:textColor="@color/Color_Dark_Green2"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/BackgroundButtonsStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center|end"
+        android:layout_marginBottom="2dp"
+        android:minHeight="55dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/button_Query1_Back"
+            style="@style/MyShiftAddDatesButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/shift_add_dates_button_background"
+            android:gravity="center_vertical|center_horizontal"
+            android:maxWidth="95dp"
+            android:minWidth="95dp"
+            android:text="@string/Button_Back" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="4" >
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/button_Query1_Reset"
+            style="@style/MyShiftResetButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/shift_reset_button_background"
+            android:maxWidth="90dp"
+            android:minWidth="87dp"
+            android:text="@string/Button_Delete" />
+
+    </LinearLayout>
+
+</FrameLayout>
